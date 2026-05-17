@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Region,Product Category,Product Name,Quantity,Unit Price,Revenue,Profit
+ORD-1001,2024-03-12,Carmen Jackson,Alberta,Furniture,Office Desk,1,893.74,893.74,130.59
+ORD-1002,2024-04-21,Bryan Hernandez,British Columbia,Furniture,Office Desk,10,514.98,5149.8,453.42
+ORD-1003,2024-10-06,Brian Day,Quebec,Furniture,Office Desk,9,250.62,2255.58,576.23
+ORD-1004,2024-03-22,Jason Simmons,Quebec,Electronics,Mouse,10,344.66,3446.6,1084.68
+ORD-1005,2024-02-22,Austin Allen,Alberta,Office Supplies,Desk Chair,3,270.15,810.45,231.9
+ORD-1006,2024-01-23,Andrew Rodriguez,Quebec,Office Supplies,Notebook,6,1019.28,6115.68,1486.15
+ORD-1007,2024-11-17,Carlos Wu,Manitoba,Furniture,Office Desk,7,108.38,758.66,120.75
+ORD-1008,2024-05-28,Jasmine Willis,Alberta,Office Supplies,Printer Paper,2,69.3,138.6,19.62
+ORD-1009,2024-07-05,Amber Leon,British Columbia,Electronics,Laptop,7,344.4,2410.8,606.64
+ORD-1010,2024-12-15,Jesse Herrera,Alberta,Office Supplies,Desk Chair,4,809.16,3236.64,872.25
+ORD-1011,2024-07-13,Robert Walker,Ontario,Furniture,Bookshelf,9,879.02,7911.18,981.93
+ORD-1012,2024-04-27,David Ramirez,Alberta,Furniture,Bookshelf,6,1013.78,6082.68,1761.06
+ORD-1013,2024-10-17,James Price,Ontario,Office Supplies,Stapler,5,93.43,467.15,152.55
+ORD-1014,2024-03-14,James Warren,Ontario,Electronics,Mouse,7,1063.35,7443.45,1887.44
+ORD-1015,2024-08-07,Jamie Hatfield,Manitoba,Electronics,Monitor,9,653.69,5883.21,1657.26
+ORD-1016,2024-09-09,Jennifer Kent,Alberta,Office Supplies,Desk Chair,4,1196.83,4787.32,561.79
+ORD-1017,2024-08-04,Jessica Hernandez,Manitoba,Electronics,Laptop,3,758.52,2275.56,668.7
+ORD-1018,2024-05-08,Jerome Burch,Manitoba,Electronics,Mouse,7,721.13,5047.91,1041.75
+ORD-1019,2024-06-23,Timothy Burns,Alberta,Electronics,Laptop,9,904.79,8143.11,2341.32
+ORD-1020,2024-05-14,Ryan Diaz,Manitoba,Office Supplies,Stapler,3,552.66,1657.98,559.62
+ORD-1021,2024-11-23,Emily Ward DDS,Manitoba,Electronics,Tablet,2,1046.56,2093.12,336.11
+ORD-1022,2024-09-28,Ms. Vanessa Thompson,Alberta,Furniture,Bookshelf,3,458.09,1374.27,169.88
+ORD-1023,2024-06-06,Monica Cantu,British Columbia,Furniture,Cabinet,8,38.08,304.64,100.79
+ORD-1024,2024-09-05,Shirley Morales,Alberta,Electronics,Monitor,10,1137.14,11371.4,1172.69
+ORD-1025,2024-03-25,Michelle Bradford,Ontario,Furniture,Bookshelf,3,796.8,2390.4,802.34
+ORD-1026,2024-12-19,Jeffrey Jones,British Columbia,Furniture,Conference Table,4,1115.76,4463.04,1267.15
+ORD-1027,2024-08-12,Natasha Stewart,Manitoba,Furniture,Cabinet,7,1194.25,8359.75,2135.64
+ORD-1028,2024-10-28,Kimberly Hodge,Manitoba,Office Supplies,Notebook,4,281.27,1125.08,192.71
+ORD-1029,2024-01-31,James Price,British Columbia,Electronics,Tablet,4,23.52,94.08,25.51
+ORD-1030,2024-12-08,Mr. Paul Coleman,Quebec,Electronics,Laptop,6,98.97,593.82,85.67
+ORD-1031,2024-10-22,Michael Fuller,Quebec,Electronics,Tablet,3,872.17,2616.51,832.69
+ORD-1032,2024-08-08,Randall Le,Ontario,Electronics,Mouse,7,240.64,1684.48,178.84
+ORD-1033,2024-11-30,Kelly Meyer,Alberta,Office Supplies,Stapler,8,1038.65,8309.2,786.27
+ORD-1034,2024-04-08,Joan Middleton,British Columbia,Electronics,Mouse,6,963.7,5782.2,633.17
+ORD-1035,2024-05-07,Donald Smith,Alberta,Furniture,Conference Table,3,514.93,1544.79,239.76
+ORD-1036,2024-01-08,Jennifer Cummings,Alberta,Office Supplies,Notebook,1,787.79,787.79,178.01
+ORD-1037,2024-07-24,Teresa Parker,Alberta,Electronics,Monitor,7,590.48,4133.36,569.21
+ORD-1038,2024-08-20,John Cortez,Ontario,Electronics,Mouse,1,1182.59,1182.59,179.29
+ORD-1039,2024-01-30,Roy Gonzales,Manitoba,Office Supplies,Stapler,3,240.03,720.09,99.93
+ORD-1040,2024-09-14,Roy Hunter,Manitoba,Furniture,Office Desk,6,82.74,496.44,118.02
+ORD-1041,2024-10-31,Michelle Clark,Alberta,Electronics,Laptop,9,109.93,989.37,128.79
+ORD-1042,2024-05-06,Heather Gonzalez,Manitoba,Furniture,Bookshelf,7,157.07,1099.49,352.25
+ORD-1043,2024-10-16,Erika Taylor,Manitoba,Furniture,Office Desk,10,112.15,1121.5,288.78
+ORD-1044,2024-05-15,Leah Turner,Quebec,Office Supplies,Desk Chair,4,808.63,3234.52,533.14
+ORD-1045,2024-02-07,Tammy White,Alberta,Electronics,Keyboard,8,389.67,3117.36,882.22
+ORD-1046,2024-03-08,Teresa Braun,Ontario,Office Supplies,Notebook,2,652.1,1304.2,282.48
+ORD-1047,2024-10-05,Shawna Ramos,Ontario,Electronics,Monitor,6,352.71,2116.26,419.68
+ORD-1048,2024-03-09,Johnny Miles,Ontario,Furniture,Office Desk,9,369.76,3327.84,862.29
+ORD-1049,2024-04-17,Kim Reynolds,Ontario,Electronics,Laptop,9,199.21,1792.89,279.82
+ORD-1050,2024-01-27,Ricardo Lopez,Alberta,Electronics,Keyboard,9,593.91,5345.19,1734.2
+ORD-1051,2024-03-07,Alyssa Meadows,Ontario,Furniture,Conference Table,5,67.24,336.2,57.17
+ORD-1052,2024-02-27,Lynn Alexander,Alberta,Electronics,Mouse,9,851.22,7660.98,1773.09
+ORD-1053,2024-10-09,Sherri Stuart,British Columbia,Furniture,Bookshelf,9,57.69,519.21,93.3
+ORD-1054,2024-01-21,George Mcconnell,Ontario,Office Supplies,Printer Paper,1,380.29,380.29,122.73
+ORD-1055,2024-07-27,Brendan May,Manitoba,Electronics,Monitor,2,434.11,868.22,200.71
+ORD-1056,2024-03-31,Audrey Day,Quebec,Furniture,Bookshelf,4,1039.56,4158.24,1428.67
+ORD-1057,2024-12-08,Lawrence Drake,British Columbia,Electronics,Monitor,6,942.13,5652.78,1080.6
+ORD-1058,2024-08-28,Adam Hernandez,British Columbia,Office Supplies,Printer Paper,2,468.31,936.62,84.72
+ORD-1059,2024-04-26,James Lee,British Columbia,Electronics,Mouse,6,376.65,2259.9,666.09
+ORD-1060,2024-05-22,Andre Frazier,Ontario,Electronics,Monitor,7,403.99,2827.93,886.2
+ORD-1061,2024-05-13,Joshua Jenkins,British Columbia,Furniture,Conference Table,9,407.41,3666.69,320.66
+ORD-1062,2024-06-09,Garrett Payne,Quebec,Furniture,Cabinet,1,143.46,143.46,28.31
+ORD-1063,2024-01-23,Jessica Allen,Quebec,Furniture,Office Desk,7,1080.91,7566.37,993.63
+ORD-1064,2024-12-09,Brandon Wright,British Columbia,Electronics,Tablet,9,828.93,7460.37,2490.8
+ORD-1065,2024-11-15,Joyce Hicks,Ontario,Office Supplies,Stapler,2,1139.42,2278.84,748.85
+ORD-1066,2024-06-16,Alexandra Smith,Quebec,Furniture,Office Desk,5,615.94,3079.7,800.91
+ORD-1067,2024-07-13,Paul Perez,British Columbia,Furniture,Cabinet,9,165.84,1492.56,288.84
+ORD-1068,2024-05-26,John Rodriguez,British Columbia,Furniture,Cabinet,7,664.31,4650.17,372.52
+ORD-1069,2024-09-18,Alec Kline,Quebec,Office Supplies,Desk Chair,8,538.52,4308.16,1130.54
+ORD-1070,2024-11-13,Herbert Beck,Ontario,Furniture,Bookshelf,2,351.29,702.58,182.14
+ORD-1071,2024-01-13,Sharon Torres,Alberta,Electronics,Monitor,5,281.2,1406.0,188.07
+ORD-1072,2024-07-31,Donald Osborne,Manitoba,Electronics,Mouse,10,1021.94,10219.4,1018.5
+ORD-1073,2024-12-18,Elizabeth Hancock,Alberta,Electronics,Mouse,8,488.59,3908.72,468.44
+ORD-1074,2024-09-22,Terri Hall,Quebec,Electronics,Mouse,4,223.43,893.72,302.66
+ORD-1075,2024-03-09,Caleb Lawrence,Quebec,Electronics,Tablet,4,1102.2,4408.8,497.17
+ORD-1076,2024-09-15,Mackenzie Rodriguez,Quebec,Furniture,Cabinet,8,740.99,5927.92,1625.46
+ORD-1077,2024-05-12,Melissa Walker,British Columbia,Furniture,Conference Table,3,896.23,2688.69,559.68
+ORD-1078,2024-08-13,Mr. Paul Hill,Alberta,Furniture,Cabinet,9,589.25,5303.25,766.83
+ORD-1079,2024-10-03,Kayla Campbell,Alberta,Furniture,Cabinet,4,336.98,1347.92,224.19
+ORD-1080,2024-04-19,Kenneth Johnson,Alberta,Electronics,Monitor,4,468.9,1875.6,227.43
+ORD-1081,2024-04-15,Michael James,Quebec,Office Supplies,Stapler,6,657.99,3947.94,759.03
+ORD-1082,2024-06-29,Joel Cobb,Ontario,Office Supplies,Notebook,10,465.75,4657.5,380.01
+ORD-1083,2024-11-04,Vanessa Johnson,British Columbia,Office Supplies,Stapler,9,900.81,8107.29,1844.05
+ORD-1084,2024-06-21,Suzanne Ward,Quebec,Office Supplies,Printer Paper,5,531.47,2657.35,233.41
+ORD-1085,2024-09-30,Luis Solis,Alberta,Furniture,Bookshelf,8,1104.66,8837.28,3047.05
+ORD-1086,2024-08-24,Dr. Ashley Roth,British Columbia,Office Supplies,Notebook,2,776.66,1553.32,181.18
+ORD-1087,2024-06-21,Katrina Miller,Quebec,Electronics,Keyboard,7,402.91,2820.37,571.88
+ORD-1088,2024-10-03,Susan Glenn,Alberta,Office Supplies,Stapler,5,1004.37,5021.85,1039.44
+ORD-1089,2024-01-16,Katherine Palmer,British Columbia,Office Supplies,Printer Paper,2,940.76,1881.52,481.62
+ORD-1090,2024-12-08,Erica Vazquez,Alberta,Electronics,Laptop,10,195.57,1955.7,223.11
+ORD-1091,2024-03-26,Kristin Melendez,Manitoba,Furniture,Bookshelf,8,843.87,6750.96,1937.95
+ORD-1092,2024-01-14,Holly Marquez,Ontario,Furniture,Office Desk,3,1158.19,3474.57,379.38
+ORD-1093,2024-10-30,Robert Thomas,British Columbia,Furniture,Conference Table,7,1130.64,7914.48,1056.97
+ORD-1094,2024-10-16,Nicholas Peterson,Alberta,Electronics,Keyboard,10,969.55,9695.5,2859.99
+ORD-1095,2024-01-07,Justin Walton,Quebec,Office Supplies,Stapler,6,96.71,580.26,147.87
+ORD-1096,2024-08-23,William Flores,British Columbia,Office Supplies,Notebook,7,1153.53,8074.71,2031.66
+ORD-1097,2024-10-02,Katelyn Burke,Quebec,Office Supplies,Printer Paper,9,1159.09,10431.81,1595.26
+ORD-1098,2024-02-14,Mrs. Paula Davidson,Ontario,Office Supplies,Stapler,10,333.05,3330.5,1032.33
+ORD-1099,2024-06-21,Russell Curtis,Alberta,Office Supplies,Printer Paper,8,690.27,5522.16,1438.03
+ORD-1100,2024-05-12,Jeffery Benjamin,Ontario,Office Supplies,Desk Chair,3,592.75,1778.25,312.62
+ORD-1101,2024-02-13,Kristina Burke,British Columbia,Office Supplies,Desk Chair,9,27.03,243.27,81.73
+ORD-1102,2024-08-31,Leslie Huffman,Quebec,Furniture,Conference Table,8,672.88,5383.04,779.94
+ORD-1103,2024-05-04,Justin Moore,Ontario,Office Supplies,Notebook,2,363.67,727.34,137.6
+ORD-1104,2024-10-08,Alan Gonzales MD,Ontario,Furniture,Cabinet,8,670.87,5366.96,927.49
+ORD-1105,2024-04-08,Christopher Ortega,Ontario,Office Supplies,Stapler,5,378.35,1891.75,269.09
+ORD-1106,2024-05-21,Ashley Garrett,Manitoba,Electronics,Tablet,3,241.98,725.94,202.84
+ORD-1107,2024-07-03,Ryan Roberts,British Columbia,Furniture,Cabinet,2,1001.66,2003.32,320.5
+ORD-1108,2024-01-28,Carla Curtis,Manitoba,Office Supplies,Notebook,9,165.0,1485.0,137.05
+ORD-1109,2024-05-25,William Johnson,Quebec,Office Supplies,Printer Paper,8,136.57,1092.56,91.02
+ORD-1110,2024-09-01,Kellie Alvarez,Alberta,Office Supplies,Stapler,6,233.47,1400.82,131.5
+ORD-1111,2024-01-28,Alisha Garcia,British Columbia,Electronics,Mouse,8,102.79,822.32,205.54
+ORD-1112,2024-10-12,Benjamin Hughes,Quebec,Electronics,Tablet,5,115.94,579.7,85.22
+ORD-1113,2024-06-01,Anna Grant,Manitoba,Furniture,Bookshelf,9,465.75,4191.75,1363.56
+ORD-1114,2024-02-20,Brian Doyle,British Columbia,Office Supplies,Desk Chair,10,750.92,7509.2,1836.75
+ORD-1115,2024-03-29,Daniel Harris,Manitoba,Furniture,Bookshelf,5,797.61,3988.05,488.16
+ORD-1116,2024-08-28,Angela Morton,Ontario,Electronics,Monitor,1,499.09,499.09,132.82
+ORD-1117,2024-08-20,Nicholas Huynh,Alberta,Electronics,Monitor,5,852.74,4263.7,1150.37
+ORD-1118,2024-12-04,James Perry,British Columbia,Furniture,Bookshelf,5,948.58,4742.9,1179.87
+ORD-1119,2024-05-16,Melanie Riley,British Columbia,Office Supplies,Notebook,9,281.4,2532.6,304.49
+ORD-1120,2024-10-18,Dr. Justin Whitaker MD,Ontario,Electronics,Laptop,3,954.26,2862.78,688.96
+ORD-1121,2024-05-19,Mark Yates,Manitoba,Office Supplies,Notebook,8,831.08,6648.64,1788.01
+ORD-1122,2024-08-09,Marcus Molina,Ontario,Furniture,Conference Table,8,110.32,882.56,80.1
+ORD-1123,2024-10-21,Thomas Martinez,Manitoba,Furniture,Cabinet,1,123.22,123.22,41.86
+ORD-1124,2024-08-28,Adrienne Chan,Manitoba,Electronics,Keyboard,10,62.67,626.7,178.1
+ORD-1125,2024-11-21,Kimberly Rodriguez,Quebec,Furniture,Conference Table,5,230.06,1150.3,273.82
+ORD-1126,2024-02-23,Mark Trujillo,British Columbia,Electronics,Mouse,6,498.89,2993.34,498.95
+ORD-1127,2024-10-08,Stacy Schmidt,Alberta,Office Supplies,Stapler,8,356.54,2852.32,956.1
+ORD-1128,2024-07-25,Jessica Johnson,Manitoba,Office Supplies,Notebook,6,314.09,1884.54,209.75
+ORD-1129,2024-07-04,Kelly Franklin,Manitoba,Electronics,Tablet,8,504.7,4037.6,527.5
+ORD-1130,2024-05-27,Heather Rubio,Quebec,Office Supplies,Stapler,1,256.22,256.22,58.49
+ORD-1131,2024-05-02,Megan Cox,British Columbia,Furniture,Conference Table,2,49.21,98.42,24.62
+ORD-1132,2024-02-28,Eric Caldwell,Quebec,Office Supplies,Notebook,9,498.47,4486.23,631.07
+ORD-1133,2024-12-27,Craig Quinn,Ontario,Electronics,Monitor,8,1120.19,8961.52,1423.11
+ORD-1134,2024-07-15,Thomas Smith,British Columbia,Office Supplies,Stapler,8,303.82,2430.56,556.21
+ORD-1135,2024-07-31,Michael Welch,Ontario,Furniture,Bookshelf,2,342.35,684.7,200.82
+ORD-1136,2024-10-27,Kara Mathews,Manitoba,Furniture,Cabinet,1,350.16,350.16,56.24
+ORD-1137,2024-06-19,Catherine Richardson,Manitoba,Furniture,Conference Table,3,544.16,1632.48,344.08
+ORD-1138,2024-12-23,Elizabeth Lawson,British Columbia,Furniture,Conference Table,8,1120.43,8963.44,2821.62
+ORD-1139,2024-06-11,April Lopez,Quebec,Furniture,Conference Table,4,1029.38,4117.52,786.07
+ORD-1140,2024-11-29,Teresa Gray,British Columbia,Furniture,Conference Table,7,1186.27,8303.89,2440.9
+ORD-1141,2024-02-21,Jesse Mckenzie,Quebec,Office Supplies,Notebook,3,610.22,1830.66,438.17
+ORD-1142,2024-12-01,Mark Lewis,British Columbia,Electronics,Tablet,8,33.19,265.52,31.58
+ORD-1143,2024-11-28,Eileen Evans,Alberta,Electronics,Mouse,5,416.2,2081.0,555.69
+ORD-1144,2024-09-06,Andrew Mack,Manitoba,Office Supplies,Stapler,6,757.76,4546.56,1453.12
+ORD-1145,2024-05-27,Barbara Hays,British Columbia,Electronics,Tablet,2,293.2,586.4,155.27
+ORD-1146,2024-12-26,Amy Wood,Alberta,Furniture,Office Desk,7,1174.33,8220.31,2345.25
+ORD-1147,2024-01-29,Lisa Mcclure,Ontario,Office Supplies,Printer Paper,5,1085.56,5427.8,501.62
+ORD-1148,2024-10-16,Victoria Smith,British Columbia,Office Supplies,Desk Chair,7,187.5,1312.5,293.23
+ORD-1149,2024-12-15,Randall Liu,British Columbia,Electronics,Monitor,2,737.25,1474.5,270.26
+ORD-1150,2024-05-10,Jack Reynolds,Alberta,Office Supplies,Printer Paper,4,561.46,2245.84,333.67
+ORD-1151,2024-06-25,Mary Thomas,Manitoba,Office Supplies,Desk Chair,9,202.2,1819.8,362.63
+ORD-1152,2024-07-15,Christopher Church,Quebec,Office Supplies,Stapler,5,556.35,2781.75,449.46
+ORD-1153,2024-12-24,Kathy Baker,Ontario,Electronics,Monitor,7,692.73,4849.11,1140.51
+ORD-1154,2024-01-26,Robert Moyer,Manitoba,Electronics,Mouse,5,24.6,123.0,38.57
+ORD-1155,2024-06-29,Brandon Frazier,British Columbia,Furniture,Conference Table,5,934.25,4671.25,663.93
+ORD-1156,2024-12-03,Samuel Reed,British Columbia,Furniture,Bookshelf,10,311.99,3119.9,886.07
+ORD-1157,2024-10-23,Darryl Taylor,Ontario,Furniture,Office Desk,1,381.09,381.09,75.85
+ORD-1158,2024-07-31,Stephen Mckinney,British Columbia,Furniture,Bookshelf,2,1092.91,2185.82,367.69
+ORD-1159,2024-09-13,Tiffany Greene,Ontario,Electronics,Monitor,9,1053.61,9482.49,1695.29
+ORD-1160,2024-06-22,Marc Davis,Alberta,Electronics,Keyboard,8,1161.35,9290.8,1483.63
+ORD-1161,2024-12-12,Courtney Warner,Quebec,Office Supplies,Notebook,3,908.67,2726.01,384.14
+ORD-1162,2024-10-01,Melissa Solis,Alberta,Furniture,Cabinet,2,951.96,1903.92,159.47
+ORD-1163,2024-07-09,John Black,Alberta,Office Supplies,Desk Chair,5,707.7,3538.5,1068.81
+ORD-1164,2024-10-14,Jonathan Walker,Ontario,Furniture,Bookshelf,8,44.65,357.2,113.86
+ORD-1165,2024-12-24,Valerie Hill,Ontario,Furniture,Bookshelf,2,767.95,1535.9,315.4
+ORD-1166,2024-06-04,Rachel Mitchell,Quebec,Furniture,Conference Table,2,180.64,361.28,121.21
+ORD-1167,2024-08-20,Melissa Neal,Ontario,Electronics,Laptop,4,1066.4,4265.6,497.49
+ORD-1168,2024-07-31,Adriana Smith,Alberta,Furniture,Conference Table,10,894.59,8945.9,1088.91
+ORD-1169,2024-08-15,Ashley Prince,Quebec,Office Supplies,Stapler,5,53.77,268.85,48.4
+ORD-1170,2024-11-26,Bradley Rodriguez,Ontario,Electronics,Keyboard,2,1177.4,2354.8,421.93
+ORD-1171,2024-08-20,Linda Johnson,Alberta,Electronics,Mouse,5,239.92,1199.6,135.53
+ORD-1172,2024-06-19,Megan Evans,British Columbia,Furniture,Bookshelf,10,1165.75,11657.5,1091.8
+ORD-1173,2024-04-16,Bonnie Mason,Manitoba,Electronics,Tablet,4,96.3,385.2,110.4
+ORD-1174,2024-11-01,Vincent Simpson,Alberta,Electronics,Monitor,6,932.63,5595.78,1639.19
+ORD-1175,2024-02-26,Pamela Woods,Alberta,Office Supplies,Printer Paper,3,655.16,1965.48,580.99
+ORD-1176,2024-06-14,Dustin Nunez,Alberta,Electronics,Laptop,6,951.13,5706.78,823.15
+ORD-1177,2024-02-28,Robert Franco,Alberta,Electronics,Keyboard,1,165.21,165.21,31.99
+ORD-1178,2024-09-14,Garrett Nicholson,British Columbia,Office Supplies,Stapler,6,623.19,3739.14,409.23
+ORD-1179,2024-01-16,Jeffrey Lee,Alberta,Furniture,Office Desk,9,372.43,3351.87,850.38
+ORD-1180,2024-08-15,Dana Campos,Alberta,Office Supplies,Stapler,7,828.03,5796.21,1230.96
+ORD-1181,2024-11-15,Cynthia Anderson,Manitoba,Electronics,Keyboard,10,190.78,1907.8,217.63
+ORD-1182,2024-08-20,Cindy Jones,Manitoba,Furniture,Cabinet,7,1193.63,8355.41,1865.35
+ORD-1183,2024-12-01,Misty Moon,Manitoba,Furniture,Conference Table,2,954.82,1909.64,211.76
+ORD-1184,2024-06-22,Dr. Lisa Strickland,Quebec,Furniture,Bookshelf,7,550.09,3850.63,545.61
+ORD-1185,2024-05-10,Anthony Harrison,Ontario,Office Supplies,Stapler,2,385.37,770.74,126.7
+ORD-1186,2024-08-09,Brandon Friedman,Alberta,Electronics,Mouse,2,123.1,246.2,25.37
+ORD-1187,2024-10-14,David Williams,Manitoba,Furniture,Cabinet,3,674.3,2022.9,482.15
+ORD-1188,2024-08-04,Steven Foster,Alberta,Office Supplies,Notebook,7,434.01,3038.07,788.81
+ORD-1189,2024-03-20,Samantha Parker,Quebec,Office Supplies,Desk Chair,6,137.77,826.62,179.38
+ORD-1190,2024-05-22,Kathy Moss,Manitoba,Electronics,Laptop,6,1016.77,6100.62,1093.48
+ORD-1191,2024-11-10,James Romero,Manitoba,Electronics,Mouse,9,1169.84,10528.56,3168.84
+ORD-1192,2024-06-07,Dylan Robles,Ontario,Electronics,Tablet,5,49.31,246.55,37.92
+ORD-1193,2024-07-24,Jessica Hutchinson,Alberta,Office Supplies,Notebook,3,1045.79,3137.37,730.71
+ORD-1194,2024-08-02,Andrew Bradley,Quebec,Electronics,Laptop,2,899.14,1798.28,248.32
+ORD-1195,2024-10-17,John Andrews,Manitoba,Office Supplies,Printer Paper,6,384.29,2305.74,386.4
+ORD-1196,2024-12-11,Steven Phillips,Alberta,Electronics,Laptop,3,201.53,604.59,149.22
+ORD-1197,2024-05-19,Melanie Bray,British Columbia,Office Supplies,Stapler,7,590.51,4133.57,824.04
+ORD-1198,2024-12-13,Michael Young,Manitoba,Furniture,Office Desk,6,524.45,3146.7,492.38
+ORD-1199,2024-01-29,Kristine Hernandez DVM,Alberta,Office Supplies,Desk Chair,1,276.31,276.31,95.55
+ORD-1200,2024-05-28,Michael Werner,Ontario,Electronics,Keyboard,4,924.31,3697.24,1058.61
+ORD-1201,2024-07-13,David Stewart,Manitoba,Electronics,Laptop,8,900.21,7201.68,917.76
+ORD-1202,2024-06-30,Danielle Ramirez,Alberta,Furniture,Bookshelf,9,677.09,6093.81,1586.66
+ORD-1203,2024-06-09,Carlos Rodriguez,Manitoba,Office Supplies,Notebook,7,37.21,260.47,85.62
+ORD-1204,2024-06-15,Tyler Martin,British Columbia,Office Supplies,Stapler,7,358.08,2506.56,474.64
+ORD-1205,2024-05-04,Jennifer Perez,Quebec,Furniture,Conference Table,6,119.43,716.58,220.71
+ORD-1206,2024-06-22,Darren Pierce,British Columbia,Furniture,Conference Table,9,108.2,973.8,306.79
+ORD-1207,2024-09-18,Daniel Terry,British Columbia,Office Supplies,Printer Paper,2,619.92,1239.84,137.36
+ORD-1208,2024-04-11,Mrs. Molly Harper,British Columbia,Office Supplies,Desk Chair,3,294.98,884.94,105.79
+ORD-1209,2024-09-09,Denise Myers,Quebec,Furniture,Bookshelf,2,224.92,449.84,129.85
+ORD-1210,2024-06-14,James Perkins,Ontario,Furniture,Conference Table,10,776.95,7769.5,2691.07
+ORD-1211,2024-05-20,Melissa Green,Manitoba,Electronics,Mouse,2,570.67,1141.34,285.88
+ORD-1212,2024-01-20,Amy Arroyo,Alberta,Electronics,Keyboard,9,102.92,926.28,189.58
+ORD-1213,2024-02-16,Jacob Young,Manitoba,Office Supplies,Desk Chair,2,778.93,1557.86,535.73
+ORD-1214,2024-01-22,Mary Contreras,Quebec,Furniture,Conference Table,8,702.69,5621.52,1898.06
+ORD-1215,2024-02-01,Kevin Sloan,Quebec,Furniture,Bookshelf,6,731.93,4391.58,945.81
+ORD-1216,2024-05-06,Amy Long,Quebec,Electronics,Keyboard,2,612.89,1225.78,155.17
+ORD-1217,2024-07-28,Nicole Michael,Ontario,Office Supplies,Printer Paper,6,456.83,2740.98,428.64
+ORD-1218,2024-12-13,Vanessa Blanchard,Quebec,Furniture,Office Desk,6,93.11,558.66,58.95
+ORD-1219,2024-10-25,William Hernandez,British Columbia,Office Supplies,Desk Chair,10,1049.84,10498.4,1784.81
+ORD-1220,2024-02-13,John Hogan,Ontario,Office Supplies,Desk Chair,7,167.81,1174.67,318.79
+ORD-1221,2024-12-16,Steven Riley,Manitoba,Furniture,Conference Table,6,978.62,5871.72,1532.12
+ORD-1222,2024-04-02,Kenneth Holmes,British Columbia,Electronics,Mouse,9,443.77,3993.93,710.53
+ORD-1223,2024-02-09,Gregory Alvarez,Ontario,Office Supplies,Stapler,4,283.45,1133.8,132.82
+ORD-1224,2024-01-20,Jessica Harrell,Ontario,Electronics,Tablet,9,1004.62,9041.58,2880.59
+ORD-1225,2024-12-20,Jill Osborn,Manitoba,Furniture,Bookshelf,10,461.41,4614.1,571.26
+ORD-1226,2024-05-01,Lee Chase,Quebec,Electronics,Mouse,1,501.87,501.87,131.8
+ORD-1227,2024-08-28,Nicholas Mcmahon,British Columbia,Furniture,Cabinet,8,292.29,2338.32,338.06
+ORD-1228,2024-09-14,Jose Diaz,Manitoba,Office Supplies,Stapler,8,926.78,7414.24,2150.82
+ORD-1229,2024-05-08,Stephanie Perez,Alberta,Office Supplies,Printer Paper,4,964.49,3857.96,452.8
+ORD-1230,2024-09-21,Amanda Carrillo,Alberta,Furniture,Conference Table,6,672.13,4032.78,434.33
+ORD-1231,2024-03-16,Stephen Long,Quebec,Office Supplies,Notebook,3,338.26,1014.78,329.23
+ORD-1232,2024-07-31,Sara Kidd,Alberta,Electronics,Monitor,8,1063.29,8506.32,2817.53
+ORD-1233,2024-04-24,Mark Brown,Alberta,Office Supplies,Desk Chair,4,472.61,1890.44,192.89
+ORD-1234,2024-05-26,Benjamin Williams,Quebec,Office Supplies,Notebook,6,952.79,5716.74,669.73
+ORD-1235,2024-02-10,Michael Ramirez,Alberta,Furniture,Bookshelf,8,546.59,4372.72,356.02
+ORD-1236,2024-09-27,Richard Martin,Quebec,Office Supplies,Printer Paper,3,665.33,1995.99,551.6
+ORD-1237,2024-08-02,Angel Peck,Manitoba,Electronics,Keyboard,4,371.86,1487.44,138.17
+ORD-1238,2024-10-01,David James,Alberta,Office Supplies,Notebook,2,1006.47,2012.94,432.69
+ORD-1239,2024-06-29,Timothy Bishop,British Columbia,Furniture,Bookshelf,3,360.16,1080.48,86.89
+ORD-1240,2024-07-03,Elizabeth Taylor,Alberta,Furniture,Conference Table,3,802.28,2406.84,248.18
+ORD-1241,2024-07-17,Brian White,Ontario,Furniture,Office Desk,7,1049.9,7349.3,674.33
+ORD-1242,2024-12-02,Curtis Clayton,Alberta,Office Supplies,Notebook,6,949.4,5696.4,986.03
+ORD-1243,2024-11-25,David Bolton,British Columbia,Furniture,Cabinet,3,67.54,202.62,46.08
+ORD-1244,2024-02-02,Adam Chaney,Quebec,Furniture,Conference Table,8,763.61,6108.88,1827.19
+ORD-1245,2024-01-22,Ashley Neal,Ontario,Electronics,Keyboard,4,66.91,267.64,35.83
+ORD-1246,2024-11-27,Shannon Castillo,British Columbia,Office Supplies,Stapler,9,575.98,5183.82,465.96
+ORD-1247,2024-03-04,Seth Murphy,Ontario,Office Supplies,Desk Chair,1,1040.97,1040.97,176.57
+ORD-1248,2024-04-05,Tina Higgins,Quebec,Office Supplies,Stapler,8,1075.15,8601.2,1586.01
+ORD-1249,2024-02-12,Misty Holmes,Quebec,Furniture,Conference Table,6,1110.31,6661.86,1466.97
+ORD-1250,2024-05-30,Christopher Romero,Ontario,Electronics,Mouse,10,1194.19,11941.9,1537.2
+ORD-1251,2024-11-04,Travis Jones,Quebec,Electronics,Laptop,6,798.19,4789.14,779.45
+ORD-1252,2024-06-29,John Lopez,Manitoba,Electronics,Mouse,6,544.85,3269.1,903.06
+ORD-1253,2024-07-05,Daniel Maxwell,Manitoba,Office Supplies,Desk Chair,1,103.92,103.92,26.2
+ORD-1254,2024-08-12,Glenn White,Alberta,Furniture,Bookshelf,1,184.19,184.19,44.95
+ORD-1255,2024-07-15,Joyce Frank,Manitoba,Electronics,Laptop,4,937.54,3750.16,670.94
+ORD-1256,2024-07-09,Kenneth Dillon,Quebec,Electronics,Tablet,3,819.69,2459.07,826.7
+ORD-1257,2024-11-28,Brandon Spears,Ontario,Electronics,Tablet,3,642.41,1927.23,361.3
+ORD-1258,2024-07-17,Omar Lynch MD,Manitoba,Electronics,Laptop,1,886.77,886.77,190.43
+ORD-1259,2024-11-09,Stephen Moore,Ontario,Electronics,Keyboard,5,849.28,4246.4,585.72
+ORD-1260,2024-08-19,Steven Boyle,British Columbia,Furniture,Conference Table,4,160.33,641.32,198.98
+ORD-1261,2024-06-12,Jeremy Jordan,Ontario,Furniture,Conference Table,2,975.46,1950.92,665.73
+ORD-1262,2024-03-21,Monica Smith,British Columbia,Furniture,Office Desk,9,657.47,5917.23,1897.42
+ORD-1263,2024-05-01,Matthew Guzman,Quebec,Office Supplies,Printer Paper,2,1182.38,2364.76,694.9
+ORD-1264,2024-10-09,Theresa Johnson,British Columbia,Electronics,Keyboard,9,693.15,6238.35,1286.35
+ORD-1265,2024-09-02,Emily Webb,Manitoba,Furniture,Office Desk,2,381.51,763.02,266.97
+ORD-1266,2024-11-24,Brooke Martinez,Alberta,Office Supplies,Stapler,10,102.39,1023.9,350.73
+ORD-1267,2024-10-09,Rachel Ford,Manitoba,Office Supplies,Stapler,9,423.25,3809.25,1207.72
+ORD-1268,2024-03-04,Jeffrey Jackson,Manitoba,Electronics,Monitor,7,610.89,4276.23,1344.52
+ORD-1269,2024-04-25,Jason Holmes,Ontario,Electronics,Keyboard,3,206.93,620.79,206.34
+ORD-1270,2024-10-09,Michael Montes,Ontario,Furniture,Cabinet,2,311.97,623.94,156.9
+ORD-1271,2024-03-27,Albert Garza,Manitoba,Electronics,Keyboard,10,647.17,6471.7,1395.91
+ORD-1272,2024-11-05,Kimberly Jones,Ontario,Furniture,Bookshelf,3,795.6,2386.8,655.35
+ORD-1273,2024-10-22,Joshua Hull,Ontario,Furniture,Office Desk,1,111.25,111.25,37.39
+ORD-1274,2024-09-11,Pamela Young,Manitoba,Furniture,Bookshelf,10,508.66,5086.6,1284.51
+ORD-1275,2024-07-26,Jacob Larsen,Ontario,Office Supplies,Desk Chair,8,305.18,2441.44,727.51
+ORD-1276,2024-08-25,Ryan Cook,British Columbia,Office Supplies,Notebook,1,202.33,202.33,38.89
+ORD-1277,2024-06-25,Michelle Washington,Quebec,Office Supplies,Printer Paper,6,1035.86,6215.16,1033.06
+ORD-1278,2024-08-26,Michelle Thomas,Alberta,Electronics,Keyboard,9,680.56,6125.04,1017.74
+ORD-1279,2024-07-15,Brenda Cobb,Manitoba,Office Supplies,Stapler,4,181.94,727.76,68.16
+ORD-1280,2024-06-09,Sharon Parks,British Columbia,Office Supplies,Printer Paper,3,978.97,2936.91,975.39
+ORD-1281,2024-09-11,Christina Smith,Alberta,Electronics,Mouse,9,568.18,5113.62,1622.81
+ORD-1282,2024-10-25,Heather Hopkins,Ontario,Electronics,Mouse,9,556.82,5011.38,726.63
+ORD-1283,2024-11-30,Zachary Cross,Quebec,Electronics,Laptop,5,601.45,3007.25,957.0
+ORD-1284,2024-07-06,Michael Lopez,Quebec,Office Supplies,Notebook,2,525.65,1051.3,334.59
+ORD-1285,2024-07-04,Alexandra Clayton,Manitoba,Office Supplies,Notebook,7,75.62,529.34,122.64
+ORD-1286,2024-05-23,Joshua Sampson,Manitoba,Office Supplies,Notebook,7,612.54,4287.78,1227.97
+ORD-1287,2024-06-22,Karen Martinez,Manitoba,Furniture,Office Desk,3,1170.47,3511.41,654.37
+ORD-1288,2024-01-21,Scott King,Alberta,Office Supplies,Printer Paper,4,728.92,2915.68,549.24
+ORD-1289,2024-03-17,Aaron Sanchez,Manitoba,Electronics,Monitor,6,967.7,5806.2,1278.64
+ORD-1290,2024-07-20,Mrs. Denise Butler,Manitoba,Furniture,Bookshelf,6,1118.67,6712.02,1114.22
+ORD-1291,2024-09-29,Lee Richards,Quebec,Furniture,Cabinet,10,413.6,4136.0,1255.85
+ORD-1292,2024-12-10,Melissa Sanders,Alberta,Furniture,Cabinet,8,981.66,7853.28,1409.32
+ORD-1293,2024-12-01,Barry Murphy Jr.,Manitoba,Office Supplies,Desk Chair,1,722.34,722.34,109.57
+ORD-1294,2024-11-18,Jennifer Mullen,Manitoba,Furniture,Bookshelf,1,706.48,706.48,89.04
+ORD-1295,2024-02-26,William Moore,British Columbia,Office Supplies,Printer Paper,4,52.41,209.64,70.44
+ORD-1296,2024-04-14,Troy Kent,Quebec,Electronics,Mouse,6,511.25,3067.5,587.42
+ORD-1297,2024-10-14,Dr. Stephanie Williams,Ontario,Furniture,Conference Table,1,851.34,851.34,187.33
+ORD-1298,2024-08-23,Tina Wise,Manitoba,Furniture,Conference Table,9,461.54,4153.86,1405.27
+ORD-1299,2024-05-06,Raymond Miller,Ontario,Office Supplies,Desk Chair,5,737.94,3689.7,486.71
+ORD-1300,2024-05-27,Joann Webb,British Columbia,Furniture,Cabinet,4,1130.66,4522.64,1561.26
+ORD-1301,2024-05-20,Maureen Johnson,Ontario,Furniture,Conference Table,6,583.57,3501.42,809.99
+ORD-1302,2024-06-25,Peter Gibson,British Columbia,Electronics,Tablet,9,464.94,4184.46,1442.15
+ORD-1303,2024-08-14,Blake Griffin,Ontario,Office Supplies,Notebook,5,1147.05,5735.25,581.2
+ORD-1304,2024-10-14,Stephanie Everett,Ontario,Furniture,Conference Table,4,254.45,1017.8,229.43
+ORD-1305,2024-01-26,Anne Cameron,Manitoba,Electronics,Laptop,10,892.96,8929.6,1291.28
+ORD-1306,2024-08-29,Mike Robinson,Alberta,Electronics,Monitor,1,133.73,133.73,22.62
+ORD-1307,2024-03-21,Katherine Sutton,Quebec,Furniture,Bookshelf,1,1157.95,1157.95,398.38
+ORD-1308,2024-05-27,Rhonda Martinez,Ontario,Furniture,Conference Table,8,785.89,6287.12,1786.15
+ORD-1309,2024-01-20,Justin Hernandez,British Columbia,Office Supplies,Notebook,2,787.97,1575.94,224.89
+ORD-1310,2024-09-10,Ashley Nelson,British Columbia,Office Supplies,Printer Paper,1,1196.65,1196.65,224.0
+ORD-1311,2024-02-24,Matthew Robinson,Ontario,Furniture,Cabinet,1,25.98,25.98,6.06
+ORD-1312,2024-03-09,Randy Reynolds,Manitoba,Office Supplies,Stapler,9,636.32,5726.88,1833.18
+ORD-1313,2024-08-22,Derek Lopez,Ontario,Office Supplies,Desk Chair,4,973.44,3893.76,659.15
+ORD-1314,2024-10-17,Thomas Schroeder,British Columbia,Furniture,Bookshelf,1,887.89,887.89,260.6
+ORD-1315,2024-02-14,Christine Bryant,Quebec,Electronics,Tablet,7,994.98,6964.86,1526.18
+ORD-1316,2024-05-07,Jessica Cohen,Alberta,Furniture,Office Desk,3,1178.3,3534.9,738.49
+ORD-1317,2024-06-17,Joshua Mccoy,Ontario,Office Supplies,Stapler,4,544.38,2177.52,331.18
+ORD-1318,2024-02-01,Jessica Richardson,Alberta,Furniture,Office Desk,5,789.61,3948.05,1054.32
+ORD-1319,2024-12-26,Monique Chandler,Ontario,Office Supplies,Desk Chair,3,495.42,1486.26,320.56
+ORD-1320,2024-03-09,Brian Brooks,Quebec,Furniture,Office Desk,5,450.54,2252.7,314.54
+ORD-1321,2024-08-29,Emily Jones,Manitoba,Electronics,Mouse,10,457.75,4577.5,1233.75
+ORD-1322,2024-02-11,Jennifer Mclaughlin,Manitoba,Furniture,Bookshelf,4,821.21,3284.84,791.22
+ORD-1323,2024-10-07,Gregory Smith,Manitoba,Office Supplies,Desk Chair,2,1101.93,2203.86,243.08
+ORD-1324,2024-09-23,Eugene Ramos,Quebec,Electronics,Tablet,9,192.58,1733.22,292.21
+ORD-1325,2024-08-16,David Bell,Alberta,Electronics,Monitor,10,594.26,5942.6,1917.68
+ORD-1326,2024-10-13,Robert Juarez,Quebec,Office Supplies,Printer Paper,9,507.28,4565.52,1060.37
+ORD-1327,2024-04-21,Deborah Brooks,Manitoba,Furniture,Cabinet,1,484.2,484.2,145.47
+ORD-1328,2024-01-31,Ariana Pacheco,Alberta,Electronics,Laptop,7,423.27,2962.89,288.04
+ORD-1329,2024-11-24,John Wilkinson,Quebec,Office Supplies,Notebook,5,499.51,2497.55,718.35
+ORD-1330,2024-07-11,Sheila Jones,Alberta,Office Supplies,Stapler,8,1045.5,8364.0,2716.85
+ORD-1331,2024-07-20,April Boyer,Manitoba,Furniture,Bookshelf,6,155.58,933.48,324.92
+ORD-1332,2024-08-25,Michael Dorsey,Manitoba,Electronics,Monitor,1,911.07,911.07,313.58
+ORD-1333,2024-05-21,Richard Schneider,British Columbia,Office Supplies,Stapler,4,308.3,1233.2,213.91
+ORD-1334,2024-01-09,Brenda Johnston,British Columbia,Furniture,Office Desk,1,974.23,974.23,188.22
+ORD-1335,2024-12-10,Ashley Woods,Alberta,Electronics,Laptop,2,718.82,1437.64,288.3
+ORD-1336,2024-01-29,Jason Jones,British Columbia,Electronics,Laptop,7,535.17,3746.19,845.65
+ORD-1337,2024-06-12,David Jackson,Manitoba,Furniture,Cabinet,4,981.71,3926.84,1089.74
+ORD-1338,2024-12-04,James Mills,Manitoba,Furniture,Cabinet,4,372.59,1490.36,176.88
+ORD-1339,2024-10-29,William Johnson,British Columbia,Electronics,Mouse,5,341.06,1705.3,392.75
+ORD-1340,2024-11-25,Laura Logan,Quebec,Furniture,Conference Table,9,602.31,5420.79,1856.72
+ORD-1341,2024-04-04,Melissa Williams,Manitoba,Furniture,Cabinet,7,498.79,3491.53,562.03
+ORD-1342,2024-08-25,Amber Moore,Alberta,Office Supplies,Printer Paper,4,371.37,1485.48,402.63
+ORD-1343,2024-05-04,Janet Lopez,Ontario,Furniture,Conference Table,7,675.38,4727.66,549.38
+ORD-1344,2024-02-17,Jimmy George,Manitoba,Electronics,Keyboard,2,1107.84,2215.68,684.04
+ORD-1345,2024-11-04,Justin Nelson,Alberta,Furniture,Bookshelf,1,333.13,333.13,87.24
+ORD-1346,2024-09-02,Kenneth Glass,British Columbia,Electronics,Monitor,10,873.3,8733.0,2016.36
+ORD-1347,2024-03-01,Ethan Tran,Quebec,Office Supplies,Desk Chair,1,265.99,265.99,34.93
+ORD-1348,2024-06-13,Joseph Brooks,Ontario,Electronics,Tablet,4,485.01,1940.04,280.57
+ORD-1349,2024-07-03,Manuel Jenkins,Manitoba,Office Supplies,Stapler,9,783.73,7053.57,1151.66
+ORD-1350,2024-06-12,Jeremy Walker,British Columbia,Office Supplies,Stapler,2,966.34,1932.68,531.59
+ORD-1351,2024-03-15,Suzanne Rojas,Alberta,Office Supplies,Desk Chair,7,69.17,484.19,151.7
+ORD-1352,2024-07-13,Robert Mendoza,Manitoba,Office Supplies,Stapler,5,195.61,978.05,165.35
+ORD-1353,2024-05-11,Regina Salazar,Quebec,Electronics,Mouse,9,790.71,7116.39,1885.19
+ORD-1354,2024-03-27,Devin Peterson,British Columbia,Furniture,Conference Table,8,214.36,1714.88,505.28
+ORD-1355,2024-11-24,Mr. Tony Christian MD,Alberta,Furniture,Conference Table,3,1101.53,3304.59,748.08
+ORD-1356,2024-01-04,Christopher Jones,Quebec,Furniture,Office Desk,2,1135.05,2270.1,591.18
+ORD-1357,2024-09-15,Tammy Thompson,Quebec,Electronics,Monitor,2,853.0,1706.0,140.69
+ORD-1358,2024-09-04,Michele Davis,Quebec,Office Supplies,Notebook,10,770.71,7707.1,2559.94
+ORD-1359,2024-09-28,Gloria Walker,Ontario,Electronics,Laptop,9,668.7,6018.3,500.72
+ORD-1360,2024-08-08,Justin Thomas,British Columbia,Furniture,Cabinet,1,610.13,610.13,163.77
+ORD-1361,2024-09-26,Jessica Kane,Ontario,Electronics,Laptop,9,191.44,1722.96,227.12
+ORD-1362,2024-08-23,Shawn Benson,Manitoba,Office Supplies,Desk Chair,7,108.64,760.48,257.81
+ORD-1363,2024-11-30,Stephen Harrison,Alberta,Electronics,Monitor,5,825.59,4127.95,1275.22
+ORD-1364,2024-11-22,Elizabeth Gray,Alberta,Electronics,Mouse,7,461.95,3233.65,674.29
+ORD-1365,2024-06-18,Phillip Pope,Manitoba,Furniture,Bookshelf,2,607.33,1214.66,239.48
+ORD-1366,2024-12-20,Ian Nelson,Manitoba,Electronics,Tablet,1,287.27,287.27,92.89
+ORD-1367,2024-05-23,Robert Robinson,Manitoba,Office Supplies,Desk Chair,1,1110.13,1110.13,293.96
+ORD-1368,2024-04-16,John Montgomery,Manitoba,Furniture,Office Desk,3,1115.59,3346.77,551.92
+ORD-1369,2024-10-17,Theresa Juarez,Quebec,Electronics,Mouse,2,369.64,739.28,171.71
+ORD-1370,2024-12-18,Alisha Buchanan,Alberta,Furniture,Cabinet,7,910.4,6372.8,750.63
+ORD-1371,2024-02-08,William Williamson,Ontario,Furniture,Cabinet,1,130.76,130.76,18.66
+ORD-1372,2024-08-18,Joseph Greene,Quebec,Furniture,Conference Table,6,50.11,300.66,46.24
+ORD-1373,2024-12-14,Michelle Anderson,Manitoba,Electronics,Keyboard,9,1130.25,10172.25,1999.85
+ORD-1374,2024-05-06,Tony Rodriguez,Alberta,Furniture,Conference Table,2,930.02,1860.04,297.15
+ORD-1375,2024-03-19,Paul Roman,Quebec,Electronics,Keyboard,3,465.3,1395.9,407.11
+ORD-1376,2024-08-15,Lawrence Cooper,Ontario,Office Supplies,Desk Chair,2,123.45,246.9,82.61
+ORD-1377,2024-10-12,Denise Smith,Manitoba,Office Supplies,Notebook,3,118.45,355.35,69.78
+ORD-1378,2024-02-17,Dana Harris,Manitoba,Furniture,Conference Table,2,46.12,92.24,16.19
+ORD-1379,2024-02-13,Daniel Schmidt,Manitoba,Furniture,Cabinet,7,29.62,207.34,39.75
+ORD-1380,2024-03-12,Brandon Hammond,Ontario,Electronics,Tablet,9,215.96,1943.64,355.29
+ORD-1381,2024-05-21,Teresa Stevenson,Quebec,Office Supplies,Desk Chair,8,187.93,1503.44,188.15
+ORD-1382,2024-11-16,Victoria Garcia,Quebec,Office Supplies,Stapler,2,442.93,885.86,296.71
+ORD-1383,2024-07-21,Scott Montgomery,Ontario,Furniture,Bookshelf,8,141.76,1134.08,184.01
+ORD-1384,2024-11-29,Heidi Wilson,Manitoba,Furniture,Conference Table,6,536.66,3219.96,631.97
+ORD-1385,2024-09-02,Jessica Villa,Ontario,Electronics,Keyboard,6,729.81,4378.86,1172.35
+ORD-1386,2024-09-08,Shelley Jones,Manitoba,Electronics,Mouse,6,360.37,2162.22,578.69
+ORD-1387,2024-07-05,Paul Whitney,Alberta,Electronics,Keyboard,7,347.16,2430.12,710.04
+ORD-1388,2024-10-08,Steven Garcia,Alberta,Furniture,Bookshelf,10,1196.76,11967.6,1538.8
+ORD-1389,2024-12-20,Anthony Smith,Alberta,Furniture,Conference Table,4,534.57,2138.28,339.26
+ORD-1390,2024-12-03,James Ford,British Columbia,Office Supplies,Stapler,3,765.5,2296.5,333.79
+ORD-1391,2024-09-02,Heather Wright,Manitoba,Furniture,Conference Table,7,102.65,718.55,249.69
+ORD-1392,2024-12-25,Jordan Harris,Manitoba,Office Supplies,Stapler,9,58.57,527.13,180.0
+ORD-1393,2024-06-30,Julie Hoffman,British Columbia,Furniture,Office Desk,2,926.21,1852.42,477.1
+ORD-1394,2024-07-23,Jonathan Carr,Ontario,Furniture,Office Desk,10,1180.58,11805.8,3103.95
+ORD-1395,2024-09-22,Annette Walters,Manitoba,Office Supplies,Notebook,1,131.85,131.85,18.45
+ORD-1396,2024-12-13,Tamara Cunningham,Manitoba,Furniture,Bookshelf,8,458.33,3666.64,751.76
+ORD-1397,2024-05-31,Margaret Navarro,Quebec,Furniture,Bookshelf,6,1197.28,7183.68,1511.07
+ORD-1398,2024-04-15,Beverly Alvarez,Manitoba,Electronics,Laptop,3,427.77,1283.31,221.54
+ORD-1399,2024-08-19,Jesus Duncan,Ontario,Office Supplies,Desk Chair,8,130.68,1045.44,287.43
+ORD-1400,2024-06-24,Shane Evans,Alberta,Electronics,Keyboard,1,975.07,975.07,108.3
+ORD-1401,2024-06-18,Tyler Fox,Manitoba,Furniture,Bookshelf,4,626.45,2505.8,573.87
+ORD-1402,2024-04-05,Lauren Hood,Quebec,Office Supplies,Stapler,4,960.34,3841.36,960.48
+ORD-1403,2024-08-07,Miranda Torres,Quebec,Office Supplies,Notebook,10,1061.47,10614.7,2137.64
+ORD-1404,2024-02-02,Luis Taylor,Manitoba,Electronics,Monitor,4,344.84,1379.36,372.45
+ORD-1405,2024-02-28,Debra Wiley,Ontario,Electronics,Tablet,3,448.46,1345.38,179.22
+ORD-1406,2024-07-17,Keith Murphy,Manitoba,Furniture,Conference Table,9,1159.61,10436.49,1718.05
+ORD-1407,2024-03-29,Samantha Hopkins,Ontario,Office Supplies,Notebook,6,432.1,2592.6,527.91
+ORD-1408,2024-02-29,Edward Rogers,British Columbia,Furniture,Office Desk,3,386.13,1158.39,167.29
+ORD-1409,2024-10-21,Lisa Hernandez,Quebec,Office Supplies,Printer Paper,9,475.33,4277.97,1031.14
+ORD-1410,2024-11-26,Margaret Logan,British Columbia,Office Supplies,Printer Paper,8,768.07,6144.56,1641.99
+ORD-1411,2024-08-18,Mrs. Lauren Taylor,Manitoba,Furniture,Bookshelf,8,357.27,2858.16,373.04
+ORD-1412,2024-07-15,Mr. Andre Nash MD,Manitoba,Electronics,Keyboard,1,589.26,589.26,78.19
+ORD-1413,2024-08-15,Paul Wilson,Quebec,Furniture,Conference Table,7,826.37,5784.59,1111.92
+ORD-1414,2024-05-29,Patrick White,Alberta,Electronics,Laptop,10,51.57,515.7,147.22
+ORD-1415,2024-10-16,Charlotte Wilson,Quebec,Office Supplies,Printer Paper,9,357.07,3213.63,934.52
+ORD-1416,2024-07-06,Hannah Austin,Manitoba,Furniture,Office Desk,10,150.33,1503.3,434.88
+ORD-1417,2024-11-30,Lindsey Henry,British Columbia,Electronics,Mouse,9,273.97,2465.73,480.3
+ORD-1418,2024-02-14,Travis Nguyen,Quebec,Office Supplies,Notebook,8,326.44,2611.52,816.87
+ORD-1419,2024-06-28,Monica Norris,Manitoba,Electronics,Monitor,4,975.68,3902.72,931.73
+ORD-1420,2024-04-15,William Guerrero,Alberta,Furniture,Conference Table,3,745.14,2235.42,652.54
+ORD-1421,2024-06-14,John Robertson,Ontario,Furniture,Cabinet,9,348.09,3132.81,706.35
+ORD-1422,2024-02-18,Charles Wiley,British Columbia,Office Supplies,Desk Chair,9,1182.8,10645.2,2804.06
+ORD-1423,2024-03-08,Autumn Rodriguez,British Columbia,Office Supplies,Notebook,5,1042.45,5212.25,595.55
+ORD-1424,2024-09-07,Hector Freeman,British Columbia,Electronics,Keyboard,4,917.35,3669.4,963.52
+ORD-1425,2024-02-17,Misty Bolton,Quebec,Furniture,Cabinet,7,459.58,3217.06,322.96
+ORD-1426,2024-10-24,Ashley Smith,Alberta,Furniture,Cabinet,6,553.81,3322.86,703.69
+ORD-1427,2024-02-02,Mr. Robert Huang,Manitoba,Furniture,Office Desk,8,767.29,6138.32,1646.71
+ORD-1428,2024-06-14,Kristin Boyle,Ontario,Office Supplies,Printer Paper,7,992.44,6947.08,1483.71
+ORD-1429,2024-12-15,Nicole Rios,Alberta,Office Supplies,Printer Paper,10,1025.12,10251.2,3001.98
+ORD-1430,2024-03-21,Luke Webster,Quebec,Electronics,Laptop,8,34.29,274.32,90.79
+ORD-1431,2024-03-08,Joseph Black,Ontario,Office Supplies,Notebook,7,254.75,1783.25,474.2
+ORD-1432,2024-07-09,Michelle Hodge,British Columbia,Electronics,Keyboard,2,790.69,1581.38,233.42
+ORD-1433,2024-08-07,Peter Dawson,Alberta,Electronics,Mouse,5,875.3,4376.5,1242.54
+ORD-1434,2024-10-30,Catherine Brown,British Columbia,Furniture,Office Desk,1,267.9,267.9,27.07
+ORD-1435,2024-03-02,Rebecca Hester,Quebec,Furniture,Conference Table,1,24.55,24.55,4.24
+ORD-1436,2024-02-22,Stacy Clements,Alberta,Furniture,Bookshelf,8,98.93,791.44,145.17
+ORD-1437,2024-03-09,Gary Morris,British Columbia,Office Supplies,Desk Chair,5,177.5,887.5,256.34
+ORD-1438,2024-08-13,Douglas Wolfe,Ontario,Electronics,Tablet,10,25.04,250.4,63.98
+ORD-1439,2024-08-14,Nathan Levy,British Columbia,Furniture,Bookshelf,3,1105.07,3315.21,816.67
+ORD-1440,2024-07-15,Elizabeth Wilson,Ontario,Electronics,Laptop,3,906.65,2719.95,650.57
+ORD-1441,2024-05-07,Debra Morrison,Manitoba,Office Supplies,Desk Chair,3,308.63,925.89,235.22
+ORD-1442,2024-06-03,Victoria Gilbert,British Columbia,Furniture,Cabinet,1,1019.75,1019.75,262.86
+ORD-1443,2024-05-02,Alicia Munoz,Quebec,Furniture,Bookshelf,7,365.22,2556.54,242.19
+ORD-1444,2024-09-27,Alexandra Austin,Alberta,Office Supplies,Notebook,4,607.01,2428.04,583.61
+ORD-1445,2024-08-03,Jason Myers,Ontario,Office Supplies,Desk Chair,3,473.4,1420.2,435.32
+ORD-1446,2024-01-09,Monica Fleming,Manitoba,Furniture,Bookshelf,8,1146.03,9168.24,2640.44
+ORD-1447,2024-07-22,Jeffrey Lewis,Manitoba,Electronics,Laptop,5,270.66,1353.3,445.37
+ORD-1448,2024-10-01,Nichole Hunter,Manitoba,Office Supplies,Stapler,7,846.65,5926.55,606.02
+ORD-1449,2024-04-14,Michael Daniels,British Columbia,Furniture,Bookshelf,5,114.06,570.3,57.79
+ORD-1450,2024-11-28,Rachel Anderson,Alberta,Furniture,Cabinet,7,709.93,4969.51,1421.63
+ORD-1451,2024-08-10,Debra Shepard,Alberta,Office Supplies,Stapler,4,83.62,334.48,34.54
+ORD-1452,2024-03-30,Russell Norris,Alberta,Office Supplies,Notebook,5,804.3,4021.5,1036.24
+ORD-1453,2024-09-24,Anthony West,Manitoba,Electronics,Monitor,1,209.14,209.14,70.55
+ORD-1454,2024-05-17,Brian Mendoza,Alberta,Furniture,Cabinet,3,455.67,1367.01,386.1
+ORD-1455,2024-12-30,Thomas Villegas,Manitoba,Electronics,Keyboard,7,337.3,2361.1,229.61
+ORD-1456,2024-09-12,Melissa Smith,Manitoba,Furniture,Office Desk,8,554.41,4435.28,786.08
+ORD-1457,2024-10-20,Gregory Ortiz,Alberta,Electronics,Keyboard,3,317.31,951.93,102.6
+ORD-1458,2024-05-05,Tiffany Bentley,Alberta,Electronics,Tablet,1,67.18,67.18,21.03
+ORD-1459,2024-01-19,Tyler Chavez,Manitoba,Office Supplies,Desk Chair,7,1105.47,7738.29,992.97
+ORD-1460,2024-06-12,Curtis Gonzalez,Ontario,Furniture,Conference Table,4,396.34,1585.36,305.01
+ORD-1461,2024-01-27,Scott Fernandez,British Columbia,Electronics,Tablet,6,156.49,938.94,245.81
+ORD-1462,2024-08-26,Julie Sims,Ontario,Electronics,Tablet,1,1145.58,1145.58,112.97
+ORD-1463,2024-04-12,Michelle Martinez,Ontario,Office Supplies,Desk Chair,2,670.41,1340.82,110.15
+ORD-1464,2024-09-09,Priscilla Hernandez,British Columbia,Furniture,Cabinet,10,302.46,3024.6,542.72
+ORD-1465,2024-04-29,Raymond Blair,Manitoba,Furniture,Bookshelf,3,22.56,67.68,12.91
+ORD-1466,2024-06-06,Christopher Smith,Alberta,Office Supplies,Notebook,6,16.73,100.38,25.85
+ORD-1467,2024-03-13,Christopher Lee,Ontario,Electronics,Tablet,4,512.48,2049.92,695.99
+ORD-1468,2024-12-24,Lori Shelton,Ontario,Electronics,Laptop,4,1078.29,4313.16,950.34
+ORD-1469,2024-07-20,Chris Carpenter,Alberta,Office Supplies,Notebook,10,128.26,1282.6,148.84
+ORD-1470,2024-05-29,Jose Williams,Ontario,Furniture,Office Desk,7,800.0,5600.0,645.63
+ORD-1471,2024-02-08,David Knight,British Columbia,Office Supplies,Stapler,6,391.9,2351.4,360.77
+ORD-1472,2024-08-26,Stephen Dalton,Ontario,Electronics,Tablet,2,199.16,398.32,49.54
+ORD-1473,2024-08-19,Antonio Davis DVM,Ontario,Office Supplies,Notebook,9,439.57,3956.13,1139.33
+ORD-1474,2024-06-04,Jason Thomas,Manitoba,Office Supplies,Desk Chair,2,122.15,244.3,72.81
+ORD-1475,2024-07-01,Bruce Dawson,Quebec,Electronics,Monitor,6,190.76,1144.56,311.33
+ORD-1476,2024-01-16,Shannon Miller,Quebec,Furniture,Office Desk,5,323.3,1616.5,561.71
+ORD-1477,2024-03-12,Michael Griffin,Alberta,Office Supplies,Printer Paper,2,562.52,1125.04,334.2
+ORD-1478,2024-07-09,Michelle Perry,Alberta,Electronics,Laptop,4,169.9,679.6,205.51
+ORD-1479,2024-11-26,Janet Carter,Quebec,Furniture,Cabinet,2,40.83,81.66,7.95
+ORD-1480,2024-01-26,Jon Barr,British Columbia,Electronics,Laptop,6,160.2,961.2,321.44
+ORD-1481,2024-08-06,Daniel Levy DDS,British Columbia,Furniture,Conference Table,7,602.91,4220.37,773.75
+ORD-1482,2024-03-17,Justin Robinson,Alberta,Office Supplies,Printer Paper,3,340.85,1022.55,204.94
+ORD-1483,2024-09-02,Anna Ellis,Alberta,Furniture,Bookshelf,5,606.19,3030.95,964.9
+ORD-1484,2024-09-26,Ms. Amy Murray DVM,British Columbia,Electronics,Keyboard,7,177.62,1243.34,166.43
+ORD-1485,2024-10-05,Mrs. Misty Warren PhD,Quebec,Furniture,Office Desk,7,941.57,6590.99,1166.34
+ORD-1486,2024-11-01,Russell Martinez,British Columbia,Office Supplies,Desk Chair,7,335.47,2348.29,204.39
+ORD-1487,2024-07-02,Megan Taylor,Manitoba,Electronics,Keyboard,1,973.25,973.25,201.81
+ORD-1488,2024-09-30,Evan Smith,Alberta,Electronics,Monitor,2,308.71,617.42,89.59
+ORD-1489,2024-03-29,Jeremy Gonzales,British Columbia,Electronics,Tablet,7,435.44,3048.08,934.51
+ORD-1490,2024-10-29,Catherine Davis,Alberta,Electronics,Tablet,6,970.36,5822.16,1562.43
+ORD-1491,2024-04-06,Adrian Ashley,Quebec,Furniture,Cabinet,10,682.87,6828.7,1584.53
+ORD-1492,2024-04-29,David Williams,Manitoba,Furniture,Cabinet,3,596.17,1788.51,186.67
+ORD-1493,2024-11-10,Tammy Peters,British Columbia,Electronics,Laptop,9,581.42,5232.78,887.31
+ORD-1494,2024-06-14,Jennifer French,Alberta,Electronics,Keyboard,3,1103.76,3311.28,1019.73
+ORD-1495,2024-02-26,David Rivera,Manitoba,Electronics,Monitor,10,850.07,8500.7,1005.18
+ORD-1496,2024-10-27,Natasha Arnold,Alberta,Office Supplies,Notebook,6,849.88,5099.28,1319.58
+ORD-1497,2024-08-11,Mr. James Gomez,Quebec,Office Supplies,Desk Chair,6,176.7,1060.2,129.9
+ORD-1498,2024-11-10,Thomas Evans,Ontario,Furniture,Cabinet,3,853.01,2559.03,593.01
+ORD-1499,2024-05-30,Anne Kim,British Columbia,Electronics,Tablet,3,463.39,1390.17,386.72
+ORD-1500,2024-10-17,Dr. Amy Elliott,Alberta,Electronics,Laptop,10,479.05,4790.5,1669.28
+ORD-1501,2024-04-23,Justin Cohen,Manitoba,Electronics,Tablet,6,1106.43,6638.58,2265.31
+ORD-1502,2024-06-26,Abigail Hendricks,Ontario,Electronics,Mouse,3,407.43,1222.29,123.46
+ORD-1503,2024-05-07,Amber Wood,Alberta,Electronics,Laptop,6,544.26,3265.56,495.08
+ORD-1504,2024-08-12,Albert Perry,Quebec,Office Supplies,Desk Chair,2,868.69,1737.38,161.58
+ORD-1505,2024-07-11,Heather Walsh,Alberta,Electronics,Mouse,8,1059.9,8479.2,1482.44
+ORD-1506,2024-01-18,Bryan Olson,Ontario,Office Supplies,Printer Paper,3,549.78,1649.34,487.85
+ORD-1507,2024-03-28,Alexis Donovan,Quebec,Electronics,Keyboard,5,1142.72,5713.6,571.55
+ORD-1508,2024-06-22,Brian Baker,Manitoba,Electronics,Laptop,9,1131.07,10179.63,3502.52
+ORD-1509,2024-11-06,Kaitlyn Johnson,Quebec,Furniture,Conference Table,1,526.12,526.12,134.94
+ORD-1510,2024-07-28,James Faulkner,Manitoba,Electronics,Laptop,2,407.35,814.7,279.51
+ORD-1511,2024-07-20,Samuel Smith,Manitoba,Furniture,Cabinet,5,367.42,1837.1,194.54
+ORD-1512,2024-02-14,Matthew Mayo,Ontario,Furniture,Conference Table,3,79.59,238.77,19.35
+ORD-1513,2024-11-22,Erica Crawford,Ontario,Furniture,Conference Table,4,129.93,519.72,70.62
+ORD-1514,2024-09-07,Dave Potter,Ontario,Electronics,Mouse,2,380.4,760.8,142.51
+ORD-1515,2024-07-08,Miguel Wright,British Columbia,Electronics,Tablet,7,234.08,1638.56,522.84
+ORD-1516,2024-05-17,Ariana Norman,Manitoba,Office Supplies,Notebook,5,536.09,2680.45,405.06
+ORD-1517,2024-10-04,Donna Glover,Quebec,Electronics,Monitor,2,116.56,233.12,40.29
+ORD-1518,2024-09-24,Rebecca Taylor,Quebec,Furniture,Bookshelf,9,87.27,785.43,144.93
+ORD-1519,2024-02-10,Jennifer Griffin,Quebec,Furniture,Conference Table,10,1059.76,10597.6,2210.56
+ORD-1520,2024-10-19,Jennifer Jackson,Manitoba,Furniture,Office Desk,9,691.9,6227.1,1367.1
+ORD-1521,2024-04-18,Rachael Moss,British Columbia,Electronics,Laptop,8,219.86,1758.88,608.18
+ORD-1522,2024-04-13,Andrew Johnston,British Columbia,Electronics,Laptop,7,107.87,755.09,199.68
+ORD-1523,2024-02-04,Christopher Thomas,Alberta,Furniture,Cabinet,6,1094.3,6565.8,2145.88
+ORD-1524,2024-08-22,Shannon Tyler,Alberta,Office Supplies,Stapler,9,401.46,3613.14,558.5
+ORD-1525,2024-10-28,Jennifer Williams,Manitoba,Furniture,Conference Table,2,506.11,1012.22,121.48
+ORD-1526,2024-10-01,Carol Washington,Ontario,Electronics,Laptop,10,938.76,9387.6,2742.6
+ORD-1527,2024-08-30,Jason Walsh,Alberta,Office Supplies,Desk Chair,7,790.92,5536.44,1298.0
+ORD-1528,2024-12-21,Nicole White,Quebec,Electronics,Keyboard,7,185.47,1298.29,317.22
+ORD-1529,2024-08-31,Samantha Smith,Ontario,Electronics,Mouse,6,833.26,4999.56,466.5
+ORD-1530,2024-05-23,Roger Grant,Quebec,Office Supplies,Notebook,6,983.6,5901.6,955.03
+ORD-1531,2024-08-14,David Johnson,Ontario,Furniture,Office Desk,4,174.25,697.0,239.1
+ORD-1532,2024-04-18,James Murray,Quebec,Office Supplies,Stapler,10,779.98,7799.8,1019.77
+ORD-1533,2024-09-20,Charles Sherman,British Columbia,Furniture,Conference Table,9,1042.62,9383.58,2830.79
+ORD-1534,2024-09-25,Matthew Jones,Manitoba,Electronics,Keyboard,9,493.01,4437.09,1290.04
+ORD-1535,2024-01-30,Shane James,British Columbia,Electronics,Monitor,4,1052.09,4208.36,564.75
+ORD-1536,2024-05-20,Dr. Kara Mccormick DDS,Ontario,Electronics,Mouse,1,1102.87,1102.87,298.05
+ORD-1537,2024-09-07,Chad Wilson,Manitoba,Office Supplies,Stapler,2,822.19,1644.38,238.97
+ORD-1538,2024-03-24,Angela Russell,Ontario,Office Supplies,Printer Paper,8,710.45,5683.6,991.42
+ORD-1539,2024-10-19,Jason Mcdowell,British Columbia,Furniture,Office Desk,5,47.53,237.65,22.2
+ORD-1540,2024-01-11,Alex Franklin,Alberta,Electronics,Monitor,4,333.86,1335.44,254.49
+ORD-1541,2024-05-09,Natalie Johnson,Manitoba,Office Supplies,Printer Paper,3,727.35,2182.05,179.55
+ORD-1542,2024-08-23,Teresa Mclaughlin,Ontario,Office Supplies,Desk Chair,7,1076.15,7533.05,2334.71
+ORD-1543,2024-07-22,Bryce Morgan,Manitoba,Electronics,Mouse,5,817.48,4087.4,1236.7
+ORD-1544,2024-07-10,April Clark,Manitoba,Electronics,Laptop,9,1199.32,10793.88,3680.18
+ORD-1545,2024-06-21,Lori Oneal,Ontario,Furniture,Cabinet,5,826.03,4130.15,867.62
+ORD-1546,2024-11-29,Joe Decker,Ontario,Furniture,Cabinet,5,324.46,1622.3,441.26
+ORD-1547,2024-11-03,John Johnston,Quebec,Electronics,Monitor,9,922.09,8298.81,2679.81
+ORD-1548,2024-05-31,Caroline Kelley,Ontario,Furniture,Cabinet,3,869.72,2609.16,670.44
+ORD-1549,2024-10-19,Phillip Pineda,British Columbia,Office Supplies,Stapler,7,888.03,6216.21,1475.83
+ORD-1550,2024-12-09,James Burns,Ontario,Office Supplies,Printer Paper,9,771.4,6942.6,1447.17
+ORD-1551,2024-04-02,Elizabeth Hendricks,Ontario,Furniture,Cabinet,3,1011.16,3033.48,960.56
+ORD-1552,2024-10-13,William Wells,British Columbia,Electronics,Mouse,3,892.99,2678.97,738.86
+ORD-1553,2024-06-06,Angela Lopez,Quebec,Furniture,Cabinet,2,278.37,556.74,78.11
+ORD-1554,2024-03-01,Mr. Tracy Stewart,Quebec,Office Supplies,Desk Chair,5,708.9,3544.5,727.39
+ORD-1555,2024-04-09,Shannon Thomas,Manitoba,Electronics,Tablet,10,1134.0,11340.0,1125.25
+ORD-1556,2024-03-18,John Jones,British Columbia,Electronics,Mouse,9,368.55,3316.95,313.77
+ORD-1557,2024-08-22,Jack Evans,British Columbia,Electronics,Keyboard,7,1184.82,8293.74,2662.86
+ORD-1558,2024-03-31,Benjamin Hoover,Ontario,Office Supplies,Printer Paper,2,592.78,1185.56,296.84
+ORD-1559,2024-03-27,Brett Hartman,Manitoba,Furniture,Office Desk,1,550.68,550.68,75.19
+ORD-1560,2024-08-07,Andrew Norman,Quebec,Electronics,Mouse,2,168.35,336.7,66.36
+ORD-1561,2024-07-10,Benjamin Bell,Alberta,Office Supplies,Stapler,7,20.53,143.71,32.21
+ORD-1562,2024-05-07,Bridget Weaver,British Columbia,Office Supplies,Printer Paper,1,816.95,816.95,203.59
+ORD-1563,2024-10-28,Frederick Bradley,Ontario,Furniture,Cabinet,5,167.78,838.9,153.99
+ORD-1564,2024-09-23,Tina Vega,Manitoba,Electronics,Laptop,1,368.37,368.37,58.4
+ORD-1565,2024-06-24,Jeanette Jackson,Quebec,Furniture,Cabinet,7,1067.25,7470.75,2605.63
+ORD-1566,2024-07-25,Kyle Turner,Alberta,Office Supplies,Printer Paper,3,1138.48,3415.44,1119.98
+ORD-1567,2024-09-15,Timothy Randall,British Columbia,Electronics,Monitor,3,265.26,795.78,68.37
+ORD-1568,2024-09-30,Daniel Davis,Manitoba,Electronics,Keyboard,1,459.6,459.6,116.23
+ORD-1569,2024-01-11,Kathy Martinez,Alberta,Electronics,Tablet,1,799.43,799.43,205.02
+ORD-1570,2024-05-09,Nicole Davis,Quebec,Furniture,Office Desk,7,541.51,3790.57,429.74
+ORD-1571,2024-06-03,Nancy Martin,Quebec,Furniture,Bookshelf,4,838.8,3355.2,839.42
+ORD-1572,2024-03-11,April Howard,Quebec,Furniture,Office Desk,9,334.92,3014.28,734.04
+ORD-1573,2024-02-24,Shannon Lynch,Quebec,Electronics,Tablet,10,154.52,1545.2,171.18
+ORD-1574,2024-04-13,Matthew Rowe,Ontario,Electronics,Tablet,4,936.88,3747.52,1141.14
+ORD-1575,2024-04-16,Erica Ramsey,Quebec,Furniture,Conference Table,5,205.04,1025.2,233.74
+ORD-1576,2024-02-26,Russell Ewing,Manitoba,Office Supplies,Printer Paper,1,30.11,30.11,3.13
+ORD-1577,2024-02-08,Leroy Gallagher,Alberta,Furniture,Conference Table,3,1140.09,3420.27,993.49
+ORD-1578,2024-08-25,Zachary Williams,Alberta,Office Supplies,Printer Paper,8,1186.57,9492.56,1518.11
+ORD-1579,2024-12-12,Brian Johnson,Ontario,Electronics,Monitor,1,1024.91,1024.91,181.67
+ORD-1580,2024-01-05,Alexa Davis,British Columbia,Office Supplies,Notebook,2,1023.73,2047.46,655.96
+ORD-1581,2024-11-14,John Duran,Ontario,Furniture,Bookshelf,6,438.67,2632.02,521.62
+ORD-1582,2024-07-24,Diane Anderson,Quebec,Furniture,Office Desk,6,980.73,5884.38,761.29
+ORD-1583,2024-08-03,Janice Melendez,British Columbia,Office Supplies,Desk Chair,7,832.53,5827.71,1218.73
+ORD-1584,2024-02-23,Nancy Brown,Quebec,Electronics,Monitor,1,1178.16,1178.16,362.84
+ORD-1585,2024-07-13,Cheyenne Simmons,Ontario,Furniture,Conference Table,10,818.9,8189.0,1055.89
+ORD-1586,2024-07-29,Melissa Bailey,Quebec,Furniture,Office Desk,3,587.45,1762.35,373.25
+ORD-1587,2024-12-13,Shannon Hoffman,Manitoba,Electronics,Laptop,5,791.14,3955.7,329.66
+ORD-1588,2024-11-12,John Holland,Alberta,Furniture,Bookshelf,6,630.13,3780.78,1005.03
+ORD-1589,2024-07-16,Clayton Reilly,British Columbia,Office Supplies,Printer Paper,8,424.71,3397.68,892.23
+ORD-1590,2024-08-28,Charles Gregory,Quebec,Furniture,Office Desk,1,777.43,777.43,95.13
+ORD-1591,2024-05-22,Yolanda Brown,Alberta,Electronics,Laptop,8,394.95,3159.6,535.05
+ORD-1592,2024-04-30,David Williams,Alberta,Furniture,Bookshelf,9,777.33,6995.97,1321.43
+ORD-1593,2024-08-16,Danielle Adams,Ontario,Office Supplies,Stapler,10,546.0,5460.0,1699.58
+ORD-1594,2024-10-12,Michael Larson,Manitoba,Electronics,Mouse,1,136.63,136.63,26.14
+ORD-1595,2024-09-17,Virginia Mitchell,Manitoba,Electronics,Laptop,10,1156.36,11563.6,2915.59
+ORD-1596,2024-04-24,James Chavez,Quebec,Electronics,Mouse,6,445.56,2673.36,253.05
+ORD-1597,2024-12-03,Jason Joseph,British Columbia,Office Supplies,Stapler,6,863.36,5180.16,573.89
+ORD-1598,2024-05-29,Pamela Martin,Manitoba,Electronics,Keyboard,6,998.41,5990.46,2039.14
+ORD-1599,2024-03-12,John Campbell,Quebec,Furniture,Cabinet,2,69.25,138.5,17.22
+ORD-1600,2024-07-20,Henry Larson,British Columbia,Electronics,Keyboard,10,247.17,2471.7,278.32
+ORD-1601,2024-11-20,Kim Hansen,Manitoba,Office Supplies,Printer Paper,6,142.7,856.2,164.31
+ORD-1602,2024-03-09,Amber Lopez,Quebec,Electronics,Mouse,8,795.27,6362.16,2151.5
+ORD-1603,2024-10-26,Melanie Lopez,Quebec,Electronics,Tablet,1,670.57,670.57,132.01
+ORD-1604,2024-02-23,Denise Gordon,Quebec,Furniture,Bookshelf,10,220.78,2207.8,662.6
+ORD-1605,2024-11-07,John Martin,British Columbia,Furniture,Cabinet,9,1059.45,9535.05,1840.64
+ORD-1606,2024-03-09,Michael Harrison,British Columbia,Office Supplies,Stapler,6,1165.03,6990.18,1413.89
+ORD-1607,2024-10-10,Colin Schwartz,British Columbia,Office Supplies,Desk Chair,9,1034.94,9314.46,2535.45
+ORD-1608,2024-12-10,Tammy Decker,British Columbia,Electronics,Monitor,10,861.55,8615.5,2286.42
+ORD-1609,2024-12-29,Michael Simmons,Alberta,Furniture,Bookshelf,9,657.85,5920.65,1491.75
+ORD-1610,2024-08-01,Marilyn Arnold,Manitoba,Office Supplies,Stapler,10,691.21,6912.1,1798.06
+ORD-1611,2024-03-15,Marc Allen,Alberta,Office Supplies,Stapler,1,634.44,634.44,55.08
+ORD-1612,2024-05-26,Daniel Martinez,Ontario,Furniture,Office Desk,4,331.37,1325.48,387.16
+ORD-1613,2024-07-02,Anthony Schwartz,Quebec,Electronics,Laptop,5,256.74,1283.7,290.27
+ORD-1614,2024-10-14,Jennifer Garner,Quebec,Electronics,Tablet,9,1039.84,9358.56,2624.62
+ORD-1615,2024-07-14,Ronnie Robinson,Quebec,Electronics,Tablet,5,836.13,4180.65,387.48
+ORD-1616,2024-04-13,Dana Lutz,Manitoba,Office Supplies,Desk Chair,9,78.76,708.84,199.04
+ORD-1617,2024-11-04,Danielle Johnson,British Columbia,Office Supplies,Printer Paper,6,909.8,5458.8,1242.35
+ORD-1618,2024-02-08,Lucas Hall,British Columbia,Furniture,Bookshelf,5,546.85,2734.25,944.77
+ORD-1619,2024-10-11,Chris Franco,Ontario,Electronics,Tablet,2,461.98,923.96,180.82
+ORD-1620,2024-08-26,Dana Woods,British Columbia,Electronics,Monitor,10,1017.53,10175.3,829.53
+ORD-1621,2024-11-16,Kimberly Rodriguez,Manitoba,Electronics,Monitor,6,722.3,4333.8,1251.98
+ORD-1622,2024-02-07,Jonathan Smith,Ontario,Furniture,Cabinet,8,951.04,7608.32,1738.83
+ORD-1623,2024-03-22,Tristan Wright,Quebec,Furniture,Bookshelf,3,631.92,1895.76,554.11
+ORD-1624,2024-12-05,Max Griffith,Ontario,Furniture,Conference Table,2,429.04,858.08,273.31
+ORD-1625,2024-09-28,Ivan Baker,Quebec,Office Supplies,Desk Chair,5,273.86,1369.3,387.81
+ORD-1626,2024-11-24,Randy Smith,Manitoba,Furniture,Office Desk,2,807.69,1615.38,323.61
+ORD-1627,2024-02-28,Derek Hernandez,Quebec,Furniture,Bookshelf,1,823.82,823.82,137.29
+ORD-1628,2024-07-10,Michael Miller,Manitoba,Office Supplies,Desk Chair,1,1094.93,1094.93,330.64
+ORD-1629,2024-04-08,Jon Ramirez,Ontario,Furniture,Conference Table,8,66.96,535.68,172.78
+ORD-1630,2024-10-02,David Patel,Manitoba,Furniture,Office Desk,2,213.36,426.72,144.31
+ORD-1631,2024-12-16,Ann Smith,Quebec,Electronics,Laptop,4,809.35,3237.4,935.18
+ORD-1632,2024-08-10,Summer Simpson,Alberta,Electronics,Monitor,9,997.07,8973.63,2846.72
+ORD-1633,2024-02-14,Haley Russo,Alberta,Furniture,Bookshelf,1,559.18,559.18,94.82
+ORD-1634,2024-04-26,Nicole Hamilton,Ontario,Electronics,Monitor,5,676.33,3381.65,795.5
+ORD-1635,2024-01-09,James Solis,Quebec,Office Supplies,Stapler,8,761.81,6094.48,1200.11
+ORD-1636,2024-02-02,Valerie Miller,Manitoba,Furniture,Office Desk,9,21.99,197.91,54.32
+ORD-1637,2024-12-17,Justin Jones,Ontario,Electronics,Laptop,6,1114.74,6688.44,726.74
+ORD-1638,2024-07-21,Jamie Carr,Alberta,Furniture,Office Desk,5,921.85,4609.25,913.43
+ORD-1639,2024-10-06,Ryan Smith,Ontario,Office Supplies,Printer Paper,9,275.54,2479.86,698.39
+ORD-1640,2024-11-27,Megan Lopez,Ontario,Furniture,Bookshelf,5,817.59,4087.95,1336.05
+ORD-1641,2024-10-20,Nathan Coffey,Manitoba,Electronics,Tablet,9,182.53,1642.77,149.95
+ORD-1642,2024-06-25,Andrea Stephenson,British Columbia,Office Supplies,Notebook,5,263.91,1319.55,369.72
+ORD-1643,2024-05-09,Cathy Bowman,British Columbia,Office Supplies,Printer Paper,3,233.03,699.09,172.37
+ORD-1644,2024-10-08,Sarah Nguyen,Quebec,Electronics,Monitor,10,1024.92,10249.2,3175.97
+ORD-1645,2024-04-11,Paula Dawson,Manitoba,Furniture,Office Desk,5,810.95,4054.75,598.83
+ORD-1646,2024-02-21,Samantha Chen,Ontario,Office Supplies,Desk Chair,6,166.93,1001.58,257.38
+ORD-1647,2024-11-11,Cheryl Murphy,Ontario,Furniture,Office Desk,4,391.58,1566.32,315.89
+ORD-1648,2024-08-07,Brooke Sherman,British Columbia,Furniture,Bookshelf,10,686.73,6867.3,2047.0
+ORD-1649,2024-11-24,Frances Wilson,Quebec,Electronics,Keyboard,4,946.01,3784.04,1030.37
+ORD-1650,2024-09-02,Fred Johnson,Quebec,Office Supplies,Desk Chair,3,820.3,2460.9,417.18
+ORD-1651,2024-11-26,Dawn Hess,Manitoba,Office Supplies,Desk Chair,5,592.06,2960.3,323.81
+ORD-1652,2024-11-16,Benjamin King,Alberta,Electronics,Keyboard,3,1071.19,3213.57,427.52
+ORD-1653,2024-10-24,Tina Allen,Manitoba,Furniture,Office Desk,1,1021.76,1021.76,255.99
+ORD-1654,2024-10-03,Mary Nielsen,Quebec,Office Supplies,Printer Paper,1,668.64,668.64,151.61
+ORD-1655,2024-10-28,Kyle Peterson,Ontario,Furniture,Bookshelf,6,480.11,2880.66,923.79
+ORD-1656,2024-09-14,Thomas Wood,Alberta,Electronics,Mouse,9,619.84,5578.56,1043.93
+ORD-1657,2024-03-12,Phyllis Peterson,Quebec,Furniture,Bookshelf,10,825.73,8257.3,2348.75
+ORD-1658,2024-03-15,Michael Mendoza,Quebec,Electronics,Monitor,10,1139.22,11392.2,2939.66
+ORD-1659,2024-05-15,Joshua Smith,Ontario,Office Supplies,Notebook,4,917.34,3669.36,523.15
+ORD-1660,2024-07-17,Kristen Watkins,Quebec,Electronics,Laptop,4,628.69,2514.76,738.57
+ORD-1661,2024-12-26,Victoria Mcintosh,Manitoba,Office Supplies,Notebook,1,1177.0,1177.0,197.15
+ORD-1662,2024-07-11,Veronica Davis,Quebec,Furniture,Cabinet,5,700.68,3503.4,819.6
+ORD-1663,2024-04-24,Michael Sawyer,Manitoba,Office Supplies,Notebook,9,313.13,2818.17,965.57
+ORD-1664,2024-11-05,Mark Hernandez,Alberta,Office Supplies,Desk Chair,6,591.93,3551.58,746.43
+ORD-1665,2024-11-25,Johnny Mcdowell,Ontario,Furniture,Bookshelf,8,211.24,1689.92,170.37
+ORD-1666,2024-03-01,Kim Gordon,British Columbia,Electronics,Monitor,3,201.47,604.41,146.6
+ORD-1667,2024-04-17,Chelsea Jones,Manitoba,Office Supplies,Desk Chair,2,585.6,1171.2,245.11
+ORD-1668,2024-10-30,Teresa Brown,British Columbia,Electronics,Mouse,1,303.75,303.75,34.79
+ORD-1669,2024-03-26,Stacey Taylor,Ontario,Electronics,Tablet,1,1070.6,1070.6,128.1
+ORD-1670,2024-01-10,Hailey Garcia,Ontario,Electronics,Tablet,7,725.24,5076.68,1178.67
+ORD-1671,2024-09-03,Sue Pacheco,British Columbia,Electronics,Monitor,8,733.73,5869.84,1216.71
+ORD-1672,2024-04-03,John Ramirez,Manitoba,Electronics,Mouse,10,184.11,1841.1,436.92
+ORD-1673,2024-08-20,Stephen Graham,Manitoba,Furniture,Cabinet,3,873.16,2619.48,451.92
+ORD-1674,2024-01-09,James Cummings,British Columbia,Furniture,Office Desk,4,463.18,1852.72,214.36
+ORD-1675,2024-11-10,Elizabeth Frazier,Manitoba,Furniture,Conference Table,3,732.53,2197.59,281.08
+ORD-1676,2024-12-03,David Mendez,British Columbia,Electronics,Tablet,9,906.57,8159.13,858.02
+ORD-1677,2024-01-23,Melinda Smith,Manitoba,Furniture,Office Desk,7,633.62,4435.34,798.37
+ORD-1678,2024-10-28,Brittany Conner,Manitoba,Office Supplies,Printer Paper,8,950.62,7604.96,1391.2
+ORD-1679,2024-02-12,Justin Simon,Ontario,Electronics,Mouse,3,316.6,949.8,272.39
+ORD-1680,2024-01-04,Bonnie Kim,Manitoba,Furniture,Conference Table,5,238.99,1194.95,324.39
+ORD-1681,2024-12-18,Mario Swanson,Ontario,Furniture,Office Desk,9,23.52,211.68,54.34
+ORD-1682,2024-05-09,James Gonzalez,Ontario,Office Supplies,Desk Chair,2,198.41,396.82,101.56
+ORD-1683,2024-12-14,William Christensen,Quebec,Furniture,Conference Table,10,448.29,4482.9,692.17
+ORD-1684,2024-07-08,Debbie Johnson,Manitoba,Electronics,Mouse,9,943.79,8494.11,1786.03
+ORD-1685,2024-12-27,James Haney,Quebec,Furniture,Conference Table,5,1186.38,5931.9,1399.73
+ORD-1686,2024-12-24,Brent Snyder,British Columbia,Furniture,Bookshelf,2,901.16,1802.32,361.51
+ORD-1687,2024-10-08,John Rivera,Manitoba,Electronics,Monitor,9,489.66,4406.94,755.25
+ORD-1688,2024-02-16,Daniel Barrett,British Columbia,Furniture,Office Desk,3,476.09,1428.27,359.48
+ORD-1689,2024-02-10,Adam Stevens,Manitoba,Office Supplies,Stapler,2,90.94,181.88,25.44
+ORD-1690,2024-12-30,Sarah Bowers,Manitoba,Electronics,Mouse,7,742.55,5197.85,1147.02
+ORD-1691,2024-12-02,Latoya Cox,Manitoba,Electronics,Monitor,8,535.18,4281.44,575.69
+ORD-1692,2024-12-23,Janice Monroe,British Columbia,Office Supplies,Printer Paper,1,943.99,943.99,205.65
+ORD-1693,2024-03-21,Brendan Carrillo,Alberta,Furniture,Bookshelf,1,441.29,441.29,113.35
+ORD-1694,2024-04-12,Patrick Simmons,Manitoba,Office Supplies,Stapler,6,808.55,4851.3,919.18
+ORD-1695,2024-10-13,Adam Hoover,Manitoba,Electronics,Laptop,2,666.27,1332.54,367.86
+ORD-1696,2024-08-20,Robin Phillips,Quebec,Office Supplies,Desk Chair,5,283.16,1415.8,481.41
+ORD-1697,2024-10-13,Dana Cervantes,Alberta,Furniture,Office Desk,5,222.42,1112.1,240.97
+ORD-1698,2024-05-11,Donald Schroeder,Manitoba,Furniture,Cabinet,6,1137.21,6823.26,2025.11
+ORD-1699,2024-05-04,Taylor Marshall,Ontario,Furniture,Cabinet,8,1159.78,9278.24,2153.07
+ORD-1700,2024-05-12,Stephen Le,Alberta,Office Supplies,Stapler,10,1036.5,10365.0,2178.02
+ORD-1701,2024-06-29,Julia Mcintyre,Manitoba,Office Supplies,Printer Paper,4,963.19,3852.76,737.24
+ORD-1702,2024-12-10,Andrea Boyd,Ontario,Furniture,Office Desk,5,309.19,1545.95,162.5
+ORD-1703,2024-10-20,Joshua Vazquez,Ontario,Electronics,Tablet,3,579.72,1739.16,305.14
+ORD-1704,2024-05-03,Daniel Pitts,Ontario,Electronics,Monitor,8,888.48,7107.84,1019.35
+ORD-1705,2024-07-01,Carrie Huang,British Columbia,Electronics,Monitor,4,1004.4,4017.6,1228.62
+ORD-1706,2024-11-10,Christian Lara,Alberta,Electronics,Laptop,2,815.84,1631.68,422.81
+ORD-1707,2024-10-21,Katelyn Reyes,Ontario,Furniture,Office Desk,8,454.87,3638.96,601.02
+ORD-1708,2024-10-22,Andrew Schultz,British Columbia,Office Supplies,Printer Paper,9,347.12,3124.08,437.26
+ORD-1709,2024-09-14,Judith Bowman,Ontario,Electronics,Tablet,7,581.81,4072.67,920.45
+ORD-1710,2024-08-23,Christy Baker,Ontario,Office Supplies,Printer Paper,8,1172.16,9377.28,2518.04
+ORD-1711,2024-02-21,David Johnson,Ontario,Furniture,Office Desk,1,813.81,813.81,148.48
+ORD-1712,2024-08-29,Ronald Medina,Manitoba,Office Supplies,Desk Chair,3,665.05,1995.15,287.36
+ORD-1713,2024-12-24,Albert Reed,Ontario,Office Supplies,Desk Chair,3,606.04,1818.12,248.8
+ORD-1714,2024-10-21,Christopher Fields,British Columbia,Office Supplies,Stapler,5,549.11,2745.55,643.23
+ORD-1715,2024-04-10,Andrew Simpson,British Columbia,Electronics,Keyboard,4,673.08,2692.32,837.86
+ORD-1716,2024-09-12,Sean Marks,British Columbia,Furniture,Bookshelf,8,969.72,7757.76,990.54
+ORD-1717,2024-10-17,Michelle Rios,Alberta,Furniture,Cabinet,8,370.54,2964.32,687.06
+ORD-1718,2024-08-31,Joseph Cline,Alberta,Office Supplies,Notebook,3,86.14,258.42,77.46
+ORD-1719,2024-05-11,Douglas Lawson,Ontario,Office Supplies,Desk Chair,5,442.74,2213.7,512.02
+ORD-1720,2024-11-06,Jason Webster,British Columbia,Electronics,Mouse,2,431.04,862.08,227.15
+ORD-1721,2024-09-06,Jerry Edwards,Quebec,Furniture,Bookshelf,5,435.8,2179.0,570.38
+ORD-1722,2024-03-15,Joseph Johnson,British Columbia,Electronics,Mouse,10,354.53,3545.3,888.32
+ORD-1723,2024-02-06,John Owens,Alberta,Furniture,Cabinet,7,763.06,5341.42,1251.72
+ORD-1724,2024-12-29,Jennifer Olson,Ontario,Electronics,Keyboard,4,386.48,1545.92,396.24
+ORD-1725,2024-07-04,Kayla Aguirre,Manitoba,Furniture,Conference Table,5,1066.91,5334.55,1551.62
+ORD-1726,2024-03-05,Jacob Lee,British Columbia,Furniture,Conference Table,7,213.27,1492.89,463.75
+ORD-1727,2024-02-18,Henry Miller,Alberta,Furniture,Cabinet,2,264.53,529.06,99.04
+ORD-1728,2024-02-12,Teresa Williams,Alberta,Office Supplies,Notebook,1,928.56,928.56,205.65
+ORD-1729,2024-06-07,Travis Townsend,British Columbia,Office Supplies,Printer Paper,2,790.98,1581.96,504.77
+ORD-1730,2024-03-28,Vincent Shields,Alberta,Electronics,Keyboard,8,757.38,6059.04,699.48
+ORD-1731,2024-10-03,Derek Golden,Ontario,Electronics,Keyboard,6,1039.13,6234.78,1285.25
+ORD-1732,2024-03-31,Mary Murphy,Manitoba,Furniture,Conference Table,3,1163.91,3491.73,937.03
+ORD-1733,2024-09-30,Christina Castillo,Ontario,Furniture,Conference Table,10,530.45,5304.5,1340.67
+ORD-1734,2024-06-06,Melissa Smith,Ontario,Office Supplies,Stapler,9,284.15,2557.35,266.42
+ORD-1735,2024-03-10,Amanda Fry,Ontario,Office Supplies,Desk Chair,3,374.73,1124.19,89.96
+ORD-1736,2024-09-01,Stacey Sanchez,Ontario,Office Supplies,Stapler,9,24.86,223.74,73.6
+ORD-1737,2024-10-07,Natalie Perry,Ontario,Electronics,Mouse,5,722.45,3612.25,1066.07
+ORD-1738,2024-11-26,Benjamin Shaw MD,Quebec,Electronics,Mouse,9,532.97,4796.73,707.38
+ORD-1739,2024-09-21,Amber Miller,Manitoba,Office Supplies,Printer Paper,5,108.86,544.3,135.44
+ORD-1740,2024-05-17,Tina Hawkins,Quebec,Furniture,Cabinet,5,783.42,3917.1,875.96
+ORD-1741,2024-08-21,Martha Holt,Manitoba,Electronics,Laptop,3,176.9,530.7,58.27
+ORD-1742,2024-03-18,Hannah Morales,Alberta,Office Supplies,Desk Chair,10,598.02,5980.2,996.14
+ORD-1743,2024-03-05,Ryan Nelson,Quebec,Furniture,Office Desk,3,1167.21,3501.63,546.85
+ORD-1744,2024-04-21,Brian Day,Ontario,Furniture,Office Desk,4,121.88,487.52,40.94
+ORD-1745,2024-01-17,Nicholas Rodriguez,Ontario,Office Supplies,Desk Chair,8,1197.59,9580.72,1965.91
+ORD-1746,2024-10-05,Daniel Simmons,Quebec,Electronics,Monitor,1,330.81,330.81,61.52
+ORD-1747,2024-03-03,Corey Obrien,British Columbia,Electronics,Monitor,5,983.44,4917.2,1493.0
+ORD-1748,2024-08-23,Joseph Curry,Alberta,Office Supplies,Stapler,4,889.08,3556.32,316.68
+ORD-1749,2024-06-14,Diana Roberts,British Columbia,Furniture,Bookshelf,8,476.11,3808.88,1293.22
+ORD-1750,2024-11-22,Donna Harvey,Ontario,Furniture,Office Desk,9,632.3,5690.7,844.47
+ORD-1751,2024-02-27,Jane Ross,British Columbia,Electronics,Keyboard,1,1038.43,1038.43,144.14
+ORD-1752,2024-10-26,Monica Morrow,Alberta,Furniture,Conference Table,6,32.86,197.16,58.06
+ORD-1753,2024-12-19,Paul Taylor,Quebec,Office Supplies,Printer Paper,1,1163.07,1163.07,275.52
+ORD-1754,2024-09-12,Nathan Lopez,Alberta,Furniture,Bookshelf,6,928.39,5570.34,819.7
+ORD-1755,2024-12-25,Thomas Roberts,Manitoba,Furniture,Cabinet,1,85.83,85.83,21.8
+ORD-1756,2024-11-26,William Lyons,Ontario,Electronics,Monitor,8,290.72,2325.76,802.51
+ORD-1757,2024-03-09,Melissa Henderson,Ontario,Office Supplies,Printer Paper,1,831.76,831.76,146.98
+ORD-1758,2024-09-07,Tracy Hodge,British Columbia,Electronics,Mouse,8,677.44,5419.52,1227.73
+ORD-1759,2024-05-20,Laura Valdez,Manitoba,Furniture,Bookshelf,9,426.98,3842.82,1067.34
+ORD-1760,2024-05-14,Elizabeth Mcclain,Manitoba,Furniture,Bookshelf,2,644.4,1288.8,259.48
+ORD-1761,2024-04-04,Kim Taylor,Alberta,Office Supplies,Stapler,1,934.46,934.46,202.41
+ORD-1762,2024-12-03,Robert Johnson,Manitoba,Furniture,Cabinet,10,297.96,2979.6,818.41
+ORD-1763,2024-03-19,Stephanie Washington,Manitoba,Office Supplies,Printer Paper,9,824.62,7421.58,2128.12
+ORD-1764,2024-09-24,Peter Thomas,Alberta,Office Supplies,Desk Chair,7,774.47,5421.29,595.39
+ORD-1765,2024-09-05,Tim Hudson,British Columbia,Electronics,Monitor,3,1050.09,3150.27,423.9
+ORD-1766,2024-09-07,Melanie Rivers,Manitoba,Electronics,Laptop,10,775.48,7754.8,1434.03
+ORD-1767,2024-02-06,Madeline Sutton,Alberta,Furniture,Cabinet,1,449.13,449.13,109.41
+ORD-1768,2024-07-03,Travis Bell,Manitoba,Electronics,Mouse,2,569.65,1139.3,287.68
+ORD-1769,2024-11-11,William Lewis,Ontario,Furniture,Conference Table,6,956.19,5737.14,549.28
+ORD-1770,2024-04-20,Morgan Booth,Manitoba,Furniture,Office Desk,2,1003.83,2007.66,202.86
+ORD-1771,2024-09-26,Richard Bridges,British Columbia,Electronics,Laptop,4,645.02,2580.08,338.39
+ORD-1772,2024-02-24,Rachel Jones,Manitoba,Furniture,Bookshelf,9,902.8,8125.2,1560.85
+ORD-1773,2024-04-02,William Marsh,Manitoba,Office Supplies,Stapler,7,1061.15,7428.05,928.79
+ORD-1774,2024-06-29,Justin Miller,Ontario,Office Supplies,Desk Chair,3,647.67,1943.01,470.16
+ORD-1775,2024-06-14,Meredith Durham,Manitoba,Furniture,Cabinet,6,503.63,3021.78,758.39
+ORD-1776,2024-05-10,Toni Henderson,Ontario,Electronics,Tablet,9,268.5,2416.5,692.91
+ORD-1777,2024-05-25,Barbara Thompson,Manitoba,Office Supplies,Stapler,7,15.23,106.61,9.53
+ORD-1778,2024-06-02,Emily Nelson,British Columbia,Electronics,Tablet,3,1192.19,3576.57,577.61
+ORD-1779,2024-05-21,Carmen Newman,Manitoba,Electronics,Keyboard,1,929.25,929.25,311.02
+ORD-1780,2024-03-11,Gregory Patel,Ontario,Furniture,Bookshelf,2,59.72,119.44,21.02
+ORD-1781,2024-10-19,Daniel Carter,Quebec,Office Supplies,Printer Paper,4,318.65,1274.6,205.31
+ORD-1782,2024-03-29,Alison Sullivan,Quebec,Furniture,Bookshelf,2,872.44,1744.88,513.14
+ORD-1783,2024-10-22,Thomas Dorsey,Quebec,Furniture,Office Desk,10,776.07,7760.7,699.16
+ORD-1784,2024-08-01,Heather Johnson,Alberta,Electronics,Laptop,6,427.3,2563.8,770.75
+ORD-1785,2024-01-28,Karen Nelson,Ontario,Electronics,Tablet,1,766.16,766.16,192.07
+ORD-1786,2024-09-14,Howard Smith,British Columbia,Furniture,Office Desk,6,654.82,3928.92,472.99
+ORD-1787,2024-10-21,Elizabeth Moran,Manitoba,Electronics,Laptop,7,1165.68,8159.76,2311.39
+ORD-1788,2024-03-08,Juan Jacobs,Ontario,Electronics,Monitor,7,358.39,2508.73,467.8
+ORD-1789,2024-05-14,Jasmin Alexander,Alberta,Electronics,Mouse,10,898.2,8982.0,2047.91
+ORD-1790,2024-04-11,Norma Freeman MD,Quebec,Office Supplies,Stapler,3,918.01,2754.03,577.93
+ORD-1791,2024-05-06,George Smith,British Columbia,Office Supplies,Printer Paper,9,744.96,6704.64,1868.12
+ORD-1792,2024-02-15,Elizabeth Riddle,Alberta,Electronics,Keyboard,7,398.24,2787.68,918.59
+ORD-1793,2024-06-25,Margaret Hanna,Manitoba,Furniture,Conference Table,7,447.84,3134.88,412.02
+ORD-1794,2024-08-14,Mrs. Dawn Lewis,Manitoba,Furniture,Office Desk,5,215.57,1077.85,188.0
+ORD-1795,2024-12-16,Susan Wilson,Ontario,Electronics,Mouse,1,1110.19,1110.19,158.8
+ORD-1796,2024-11-13,Kimberly Mcclure,British Columbia,Electronics,Laptop,2,891.4,1782.8,259.62
+ORD-1797,2024-08-18,Brianna Smith,Quebec,Office Supplies,Notebook,6,837.15,5022.9,552.75
+ORD-1798,2024-10-06,Steven Taylor,Manitoba,Electronics,Keyboard,4,891.92,3567.68,489.51
+ORD-1799,2024-12-23,Larry Williams,Alberta,Office Supplies,Stapler,10,879.96,8799.6,1039.79
+ORD-1800,2024-12-22,Robert Myers,Manitoba,Office Supplies,Notebook,5,216.83,1084.15,169.87
+ORD-1801,2024-07-17,Alex Parker,Ontario,Office Supplies,Notebook,8,790.89,6327.12,520.41
+ORD-1802,2024-11-28,Corey Villa,Quebec,Furniture,Cabinet,2,37.61,75.22,23.63
+ORD-1803,2024-06-10,Michael Hernandez,Quebec,Electronics,Mouse,9,1172.29,10550.61,1127.79
+ORD-1804,2024-10-14,Gail Banks,Alberta,Furniture,Office Desk,3,250.67,752.01,256.46
+ORD-1805,2024-03-21,Julie Pitts,Alberta,Electronics,Monitor,9,376.34,3387.06,719.01
+ORD-1806,2024-09-13,Shannon Wright,Ontario,Office Supplies,Desk Chair,6,755.9,4535.4,652.08
+ORD-1807,2024-01-16,Amber Jackson,Manitoba,Electronics,Keyboard,7,1070.13,7490.91,2247.36
+ORD-1808,2024-03-11,Dana Phillips,Alberta,Office Supplies,Printer Paper,3,420.02,1260.06,234.46
+ORD-1809,2024-11-16,Sonia Lewis,British Columbia,Furniture,Conference Table,9,1153.32,10379.88,2546.82
+ORD-1810,2024-11-05,Pamela Thornton,Ontario,Office Supplies,Printer Paper,10,196.01,1960.1,670.44
+ORD-1811,2024-12-16,Wendy Ferrell,British Columbia,Office Supplies,Printer Paper,4,788.18,3152.72,746.81
+ORD-1812,2024-03-15,Jennifer Navarro,Manitoba,Electronics,Keyboard,9,1092.83,9835.47,1928.91
+ORD-1813,2024-03-01,Alejandro Calhoun,British Columbia,Electronics,Keyboard,2,675.45,1350.9,454.07
+ORD-1814,2024-07-30,Michelle Roach,Quebec,Office Supplies,Printer Paper,1,922.04,922.04,292.87
+ORD-1815,2024-03-08,Alicia Rogers,British Columbia,Office Supplies,Stapler,5,195.07,975.35,127.52
+ORD-1816,2024-04-28,Tracy Davis,Manitoba,Electronics,Tablet,10,331.23,3312.3,772.1
+ORD-1817,2024-09-01,Luis Lowe,British Columbia,Electronics,Monitor,1,440.72,440.72,117.14
+ORD-1818,2024-08-30,Justin Gutierrez,British Columbia,Furniture,Conference Table,6,233.01,1398.06,258.1
+ORD-1819,2024-01-08,Robert Smith,Ontario,Electronics,Monitor,4,53.19,212.76,60.94
+ORD-1820,2024-08-12,Patrick Hunt,Manitoba,Office Supplies,Printer Paper,4,912.97,3651.88,357.36
+ORD-1821,2024-01-22,Erin Hicks,Manitoba,Office Supplies,Desk Chair,8,1066.79,8534.32,1667.95
+ORD-1822,2024-10-19,Kathleen Thomas,Manitoba,Furniture,Conference Table,6,482.07,2892.42,964.82
+ORD-1823,2024-01-22,Laura Hawkins,British Columbia,Furniture,Office Desk,9,144.54,1300.86,264.55
+ORD-1824,2024-11-18,David Williams,Alberta,Furniture,Conference Table,1,675.88,675.88,148.26
+ORD-1825,2024-05-26,Paul Dixon,Quebec,Electronics,Keyboard,8,486.68,3893.44,631.63
+ORD-1826,2024-09-21,James Brewer,British Columbia,Electronics,Mouse,5,741.56,3707.8,351.23
+ORD-1827,2024-10-26,Andrew Knox,Manitoba,Office Supplies,Stapler,2,871.34,1742.68,192.66
+ORD-1828,2024-08-20,Alexander Johnson,Manitoba,Electronics,Mouse,7,398.3,2788.1,241.8
+ORD-1829,2024-11-28,Sean Hall,British Columbia,Furniture,Bookshelf,8,121.86,974.88,163.29
+ORD-1830,2024-07-04,Heidi Russell,Alberta,Furniture,Office Desk,2,150.29,300.58,60.52
+ORD-1831,2024-10-08,Carrie Sullivan,Quebec,Furniture,Conference Table,9,740.31,6662.79,820.68
+ORD-1832,2024-03-17,Derrick Hinton,British Columbia,Electronics,Monitor,6,685.11,4110.66,1060.85
+ORD-1833,2024-08-16,Jacqueline Martin,Ontario,Electronics,Monitor,1,512.2,512.2,83.78
+ORD-1834,2024-01-02,Amy Bell,Manitoba,Furniture,Bookshelf,2,1079.77,2159.54,732.77
+ORD-1835,2024-01-03,Amy Bailey,Manitoba,Office Supplies,Notebook,8,604.69,4837.52,1038.29
+ORD-1836,2024-07-28,Heidi Campos,Quebec,Office Supplies,Printer Paper,4,712.8,2851.2,594.31
+ORD-1837,2024-05-22,Maria Charles,Manitoba,Electronics,Tablet,10,22.79,227.9,72.51
+ORD-1838,2024-06-27,Donald Baker,Alberta,Furniture,Bookshelf,1,234.04,234.04,22.2
+ORD-1839,2024-02-14,Kelly Jones,Alberta,Electronics,Laptop,10,1008.05,10080.5,1618.72
+ORD-1840,2024-12-04,Jacob Black,Manitoba,Electronics,Mouse,3,206.18,618.54,96.98
+ORD-1841,2024-01-19,Emily Horne,Alberta,Furniture,Bookshelf,8,902.96,7223.68,1280.4
+ORD-1842,2024-08-06,Deanna Ayala,Manitoba,Office Supplies,Desk Chair,6,1078.57,6471.42,1950.95
+ORD-1843,2024-05-20,Jason Thomas,Ontario,Electronics,Keyboard,8,174.44,1395.52,373.37
+ORD-1844,2024-01-30,Elizabeth Liu,Alberta,Furniture,Conference Table,9,263.67,2373.03,323.79
+ORD-1845,2024-12-27,Derrick Lloyd,Ontario,Furniture,Office Desk,8,873.03,6984.24,1699.2
+ORD-1846,2024-06-30,Gerald Warren,British Columbia,Office Supplies,Desk Chair,5,637.59,3187.95,1111.5
+ORD-1847,2024-04-02,Ann Mann,Manitoba,Furniture,Conference Table,9,879.08,7911.72,1696.19
+ORD-1848,2024-11-16,Lynn Bond,Alberta,Electronics,Keyboard,4,16.87,67.48,5.84
+ORD-1849,2024-06-19,Peggy Thompson,Ontario,Furniture,Bookshelf,10,1198.8,11988.0,2299.19
+ORD-1850,2024-05-10,Thomas Daniel,Alberta,Furniture,Bookshelf,1,774.13,774.13,206.15
+ORD-1851,2024-02-28,Pamela Carter,Ontario,Office Supplies,Desk Chair,9,666.74,6000.66,1722.78
+ORD-1852,2024-03-30,Dominique Hale,British Columbia,Office Supplies,Stapler,10,744.95,7449.5,654.53
+ORD-1853,2024-11-26,Christina Hernandez,British Columbia,Office Supplies,Desk Chair,8,1100.65,8805.2,2599.81
+ORD-1854,2024-06-20,Jade Sullivan,Quebec,Office Supplies,Printer Paper,8,1072.09,8576.72,1929.6
+ORD-1855,2024-06-10,Charles Lambert,Manitoba,Office Supplies,Notebook,9,369.72,3327.48,917.52
+ORD-1856,2024-06-30,Anthony Robinson,Alberta,Furniture,Office Desk,4,699.22,2796.88,474.25
+ORD-1857,2024-09-30,Kevin Garcia,British Columbia,Electronics,Keyboard,1,416.9,416.9,75.59
+ORD-1858,2024-06-06,Roger Anderson,Ontario,Furniture,Conference Table,3,720.3,2160.9,677.31
+ORD-1859,2024-05-01,Ernest Jensen,Ontario,Furniture,Office Desk,5,505.44,2527.2,541.34
+ORD-1860,2024-07-10,Anne Duncan,Alberta,Office Supplies,Desk Chair,4,637.24,2548.96,324.36
+ORD-1861,2024-09-13,Christopher Rollins,British Columbia,Electronics,Laptop,8,614.6,4916.8,1454.08
+ORD-1862,2024-06-16,Amber Rogers,British Columbia,Electronics,Keyboard,8,882.94,7063.52,1563.72
+ORD-1863,2024-07-17,David Manning,Manitoba,Electronics,Tablet,3,258.15,774.45,69.6
+ORD-1864,2024-10-31,Keith Douglas,Alberta,Electronics,Laptop,5,1119.82,5599.1,1486.58
+ORD-1865,2024-06-08,Douglas Fox,Alberta,Office Supplies,Stapler,1,137.18,137.18,39.35
+ORD-1866,2024-05-21,Samantha Mcbride,Manitoba,Furniture,Cabinet,4,395.24,1580.96,208.67
+ORD-1867,2024-02-28,Stephen Patterson,Alberta,Office Supplies,Stapler,2,338.1,676.2,82.85
+ORD-1868,2024-05-18,Tracy Olsen,British Columbia,Furniture,Office Desk,4,657.9,2631.6,600.87
+ORD-1869,2024-11-09,Kathleen Ray,Ontario,Furniture,Cabinet,10,305.12,3051.2,302.79
+ORD-1870,2024-12-11,Mrs. Sandra Salinas,Alberta,Furniture,Conference Table,1,169.14,169.14,35.03
+ORD-1871,2024-12-26,John Holt,Manitoba,Electronics,Mouse,1,117.05,117.05,21.75
+ORD-1872,2024-04-11,Diane Porter DVM,Manitoba,Furniture,Conference Table,10,436.41,4364.1,740.72
+ORD-1873,2024-12-23,Johnny Ibarra,Quebec,Electronics,Mouse,10,171.18,1711.8,512.63
+ORD-1874,2024-08-26,Jesse Stewart,Quebec,Electronics,Mouse,5,826.11,4130.55,1122.51
+ORD-1875,2024-07-05,Raymond Bryant,Quebec,Electronics,Monitor,3,1035.4,3106.2,765.91
+ORD-1876,2024-08-31,Raymond Crawford,Alberta,Electronics,Keyboard,6,552.14,3312.84,292.1
+ORD-1877,2024-06-27,Joshua Mills,Manitoba,Office Supplies,Stapler,8,1017.23,8137.84,1271.21
+ORD-1878,2024-02-24,James Phillips,Ontario,Furniture,Bookshelf,9,136.97,1232.73,370.73
+ORD-1879,2024-07-30,Robert Cole,British Columbia,Furniture,Office Desk,5,646.3,3231.5,608.23
+ORD-1880,2024-02-03,Austin Davis,Ontario,Furniture,Bookshelf,9,203.44,1830.96,384.94
+ORD-1881,2024-06-24,Matthew Soto,Manitoba,Electronics,Tablet,7,944.41,6610.87,1305.95
+ORD-1882,2024-12-30,Alex Harding,Manitoba,Furniture,Bookshelf,3,800.2,2400.6,242.54
+ORD-1883,2024-02-19,Kyle Richmond,Quebec,Office Supplies,Notebook,10,721.35,7213.5,1210.8
+ORD-1884,2024-11-01,Erin Powell,Quebec,Electronics,Keyboard,7,97.49,682.43,74.63
+ORD-1885,2024-10-24,Amy Mccarthy,Alberta,Office Supplies,Stapler,1,122.28,122.28,36.76
+ORD-1886,2024-10-22,Charles Martin,Quebec,Electronics,Monitor,8,644.54,5156.32,955.44
+ORD-1887,2024-12-13,Kimberly Johnson,Ontario,Electronics,Monitor,6,370.19,2221.14,654.07
+ORD-1888,2024-09-18,William Villarreal,Quebec,Office Supplies,Desk Chair,2,705.53,1411.06,345.85
+ORD-1889,2024-01-28,Kaitlyn Lambert,Alberta,Electronics,Keyboard,1,452.53,452.53,103.27
+ORD-1890,2024-04-30,Kelly Jackson,Quebec,Furniture,Cabinet,2,1035.58,2071.16,649.79
+ORD-1891,2024-08-10,Angelica Nguyen,Manitoba,Furniture,Conference Table,6,858.45,5150.7,976.72
+ORD-1892,2024-07-03,Max Schmidt,Quebec,Electronics,Monitor,8,179.8,1438.4,330.78
+ORD-1893,2024-01-09,Nathan Cohen,British Columbia,Electronics,Keyboard,3,174.12,522.36,51.91
+ORD-1894,2024-03-11,Patricia Thompson,Quebec,Furniture,Conference Table,7,1170.35,8192.45,955.73
+ORD-1895,2024-10-09,Tyler Miller,Quebec,Office Supplies,Stapler,10,228.06,2280.6,496.13
+ORD-1896,2024-10-22,Brian Jacobs,Quebec,Office Supplies,Desk Chair,4,235.16,940.64,228.8
+ORD-1897,2024-10-22,Martha Powers,Ontario,Furniture,Bookshelf,9,334.06,3006.54,992.68
+ORD-1898,2024-10-24,Pamela Hernandez,Quebec,Electronics,Laptop,10,587.67,5876.7,1054.96
+ORD-1899,2024-05-23,Sandra Bailey,Quebec,Furniture,Office Desk,3,880.27,2640.81,586.6
+ORD-1900,2024-08-29,James Howard,Alberta,Furniture,Office Desk,9,1069.55,9625.95,999.95
+ORD-1901,2024-01-06,Julia Maxwell,Quebec,Furniture,Cabinet,10,77.54,775.4,133.96
+ORD-1902,2024-05-30,Kimberly Johnson,Ontario,Office Supplies,Stapler,10,884.57,8845.7,1713.19
+ORD-1903,2024-10-15,Kevin Davis,Ontario,Electronics,Laptop,10,903.07,9030.7,2495.02
+ORD-1904,2024-05-29,Audrey Wallace,Manitoba,Electronics,Mouse,10,215.36,2153.6,202.3
+ORD-1905,2024-05-22,Michelle Wright,Ontario,Electronics,Keyboard,8,112.77,902.16,195.33
+ORD-1906,2024-02-27,Teresa Dixon,Manitoba,Electronics,Tablet,5,341.13,1705.65,254.79
+ORD-1907,2024-03-30,Sierra Flores,Ontario,Electronics,Tablet,3,796.1,2388.3,429.5
+ORD-1908,2024-01-17,Carolyn Gallegos,Ontario,Furniture,Bookshelf,8,229.26,1834.08,407.89
+ORD-1909,2024-09-10,Cathy Williams,Quebec,Electronics,Monitor,10,1121.72,11217.2,1364.24
+ORD-1910,2024-10-22,Susan Johnston,Ontario,Office Supplies,Printer Paper,8,875.31,7002.48,876.48
+ORD-1911,2024-08-31,Beth Hernandez,Ontario,Electronics,Keyboard,2,77.24,154.48,31.71
+ORD-1912,2024-05-14,Robert Flores,British Columbia,Office Supplies,Printer Paper,7,824.96,5774.72,1070.17
+ORD-1913,2024-07-14,Peggy Mendoza,Ontario,Furniture,Conference Table,1,357.22,357.22,105.48
+ORD-1914,2024-08-09,Linda Robinson,Manitoba,Furniture,Office Desk,2,1102.49,2204.98,555.89
+ORD-1915,2024-05-10,Ethan Hanson,Manitoba,Furniture,Cabinet,6,335.34,2012.04,596.82
+ORD-1916,2024-04-09,Eric Bradley,Manitoba,Office Supplies,Stapler,4,885.16,3540.64,846.06
+ORD-1917,2024-02-04,Kimberly Roach,Alberta,Office Supplies,Printer Paper,6,663.92,3983.52,1042.31
+ORD-1918,2024-04-22,Anna Lee,Ontario,Office Supplies,Notebook,9,138.13,1243.17,249.14
+ORD-1919,2024-10-31,Richard Gomez,British Columbia,Office Supplies,Printer Paper,1,43.09,43.09,4.52
+ORD-1920,2024-07-11,Rebecca Hogan,Manitoba,Furniture,Office Desk,2,117.37,234.74,57.1
+ORD-1921,2024-02-08,Jake Logan,Quebec,Electronics,Laptop,3,315.2,945.6,194.87
+ORD-1922,2024-05-21,Patricia Newman,Alberta,Office Supplies,Stapler,6,319.94,1919.64,558.23
+ORD-1923,2024-05-15,Lisa Smith,British Columbia,Office Supplies,Stapler,6,1195.21,7171.26,1073.71
+ORD-1924,2024-07-20,Tonya Lee,British Columbia,Office Supplies,Notebook,8,1175.62,9404.96,1261.96
+ORD-1925,2024-04-21,Gregg Smith,Manitoba,Furniture,Conference Table,2,185.49,370.98,106.68
+ORD-1926,2024-02-07,Courtney Bush,Alberta,Furniture,Office Desk,8,862.75,6902.0,744.64
+ORD-1927,2024-11-30,Keith Pham,Alberta,Furniture,Cabinet,8,37.24,297.92,63.87
+ORD-1928,2024-07-19,Christina Bryant,Manitoba,Electronics,Mouse,5,194.65,973.25,164.53
+ORD-1929,2024-02-05,Elizabeth Garcia,Manitoba,Electronics,Tablet,8,581.6,4652.8,879.64
+ORD-1930,2024-09-03,Stephanie Williams,Alberta,Electronics,Laptop,7,1145.67,8019.69,2412.75
+ORD-1931,2024-11-19,Megan Vargas,Alberta,Furniture,Cabinet,6,822.98,4937.88,929.14
+ORD-1932,2024-05-28,David Armstrong,British Columbia,Office Supplies,Desk Chair,2,1011.8,2023.6,577.38
+ORD-1933,2024-06-02,Wayne Phillips,Quebec,Electronics,Tablet,1,1161.5,1161.5,300.13
+ORD-1934,2024-04-07,Angelica Wilson,British Columbia,Electronics,Keyboard,8,115.56,924.48,231.91
+ORD-1935,2024-09-07,Jennifer Johnson,Quebec,Electronics,Monitor,1,867.89,867.89,208.38
+ORD-1936,2024-08-18,Darrell Carter,Alberta,Electronics,Tablet,5,607.13,3035.65,1033.75
+ORD-1937,2024-07-26,Kimberly Ballard,Alberta,Electronics,Keyboard,1,415.2,415.2,114.04
+ORD-1938,2024-10-01,John Wong,British Columbia,Electronics,Tablet,8,1129.01,9032.08,2844.69
+ORD-1939,2024-11-30,Travis Gallegos,Alberta,Furniture,Bookshelf,2,58.7,117.4,13.88
+ORD-1940,2024-03-29,Julie Benson,Alberta,Office Supplies,Notebook,4,846.04,3384.16,390.01
+ORD-1941,2024-02-02,Abigail Parrish,Alberta,Office Supplies,Notebook,8,739.3,5914.4,1807.12
+ORD-1942,2024-04-13,Christine Jackson,Quebec,Electronics,Mouse,10,962.02,9620.2,1342.54
+ORD-1943,2024-10-06,Stephanie Johnson,British Columbia,Office Supplies,Stapler,6,158.15,948.9,251.18
+ORD-1944,2024-03-02,Matthew Guzman,Ontario,Office Supplies,Printer Paper,1,717.81,717.81,122.45
+ORD-1945,2024-08-12,Jon Smith,British Columbia,Electronics,Mouse,3,840.11,2520.33,578.21
+ORD-1946,2024-11-09,Eddie Kaiser,Quebec,Furniture,Office Desk,3,133.46,400.38,123.63
+ORD-1947,2024-02-15,Laurie Martin,Manitoba,Electronics,Laptop,8,110.66,885.28,72.55
+ORD-1948,2024-11-23,Natalie Russell,Ontario,Office Supplies,Stapler,8,835.44,6683.52,906.71
+ORD-1949,2024-12-20,Melissa Hall,Alberta,Furniture,Conference Table,7,298.52,2089.64,265.65
+ORD-1950,2024-06-03,Elizabeth Cox,Ontario,Furniture,Bookshelf,8,740.28,5922.24,614.53
+ORD-1951,2024-09-28,Terri Diaz,Alberta,Office Supplies,Notebook,9,294.23,2648.07,295.86
+ORD-1952,2024-11-16,Christina Hall,British Columbia,Furniture,Cabinet,9,616.44,5547.96,1139.21
+ORD-1953,2024-08-30,Richard Williams,Quebec,Office Supplies,Notebook,4,148.52,594.08,71.46
+ORD-1954,2024-04-17,Stephanie Flores DDS,Quebec,Electronics,Monitor,1,79.02,79.02,14.09
+ORD-1955,2024-01-23,Allison Torres,Alberta,Office Supplies,Desk Chair,10,969.11,9691.1,2759.74
+ORD-1956,2024-09-05,Jodi White,Manitoba,Furniture,Office Desk,9,223.43,2010.87,587.34
+ORD-1957,2024-06-15,Nancy Martinez,Quebec,Electronics,Laptop,4,869.86,3479.44,835.17
+ORD-1958,2024-02-20,Joseph Arroyo,British Columbia,Electronics,Keyboard,4,938.09,3752.36,630.61
+ORD-1959,2024-08-29,Larry Powell,Manitoba,Furniture,Conference Table,4,460.01,1840.04,256.83
+ORD-1960,2024-08-20,Tammie Mcdowell,British Columbia,Office Supplies,Notebook,7,186.76,1307.32,432.11
+ORD-1961,2024-07-02,Jacob Clark,Ontario,Office Supplies,Desk Chair,3,557.42,1672.26,221.44
+ORD-1962,2024-05-23,Christopher Beasley,British Columbia,Electronics,Keyboard,3,53.03,159.09,37.15
+ORD-1963,2024-04-22,Deborah Graham,Ontario,Electronics,Mouse,8,510.6,4084.8,1165.36
+ORD-1964,2024-10-10,Allison Lewis,British Columbia,Furniture,Bookshelf,10,1088.11,10881.1,2568.95
+ORD-1965,2024-10-29,Jerry Martinez,Quebec,Electronics,Mouse,9,594.72,5352.48,1867.1
+ORD-1966,2024-05-06,Tiffany Hopkins,British Columbia,Office Supplies,Desk Chair,1,880.07,880.07,245.34
+ORD-1967,2024-03-17,Trevor Parsons,Manitoba,Office Supplies,Stapler,10,278.55,2785.5,920.38
+ORD-1968,2024-09-15,Renee Gomez,Alberta,Electronics,Mouse,1,62.47,62.47,12.94
+ORD-1969,2024-02-20,Patrick Anderson,Quebec,Office Supplies,Stapler,8,974.51,7796.08,2090.1
+ORD-1970,2024-07-27,Charles Swanson,British Columbia,Office Supplies,Printer Paper,2,676.81,1353.62,112.83
+ORD-1971,2024-01-09,Daniel Smith,Quebec,Electronics,Keyboard,5,298.29,1491.45,521.59
+ORD-1972,2024-10-25,Stephen Page,Alberta,Furniture,Cabinet,3,848.42,2545.26,793.2
+ORD-1973,2024-07-08,Misty Smith,Quebec,Office Supplies,Stapler,3,1050.93,3152.79,597.29
+ORD-1974,2024-09-28,Nathan Sanchez,Alberta,Furniture,Office Desk,2,471.08,942.16,251.09
+ORD-1975,2024-10-21,Debra Henderson,British Columbia,Office Supplies,Stapler,5,842.2,4211.0,1033.28
+ORD-1976,2024-01-29,Kelly Williams,Manitoba,Furniture,Office Desk,10,1058.8,10588.0,2950.4
+ORD-1977,2024-11-12,Michael Harris,Alberta,Furniture,Cabinet,1,146.5,146.5,26.18
+ORD-1978,2024-10-14,Maria Schneider,British Columbia,Office Supplies,Desk Chair,3,783.08,2349.24,635.04
+ORD-1979,2024-10-24,Kayla Lucas,British Columbia,Electronics,Keyboard,4,654.47,2617.88,668.19
+ORD-1980,2024-12-14,Lisa Nelson,Quebec,Furniture,Bookshelf,6,432.96,2597.76,395.34
+ORD-1981,2024-09-13,Stephanie Brown,Manitoba,Office Supplies,Notebook,2,456.78,913.56,184.68
+ORD-1982,2024-05-29,Barbara Smith,Quebec,Electronics,Mouse,9,818.8,7369.2,1649.75
+ORD-1983,2024-02-14,Ana Lopez,Alberta,Furniture,Cabinet,2,238.2,476.4,151.82
+ORD-1984,2024-03-25,Christopher Walton,Ontario,Office Supplies,Printer Paper,5,1150.53,5752.65,579.73
+ORD-1985,2024-11-17,Eric Hart Jr.,Alberta,Electronics,Monitor,8,193.34,1546.72,209.04
+ORD-1986,2024-08-03,John Boone,Quebec,Office Supplies,Stapler,9,1119.09,10071.81,2094.48
+ORD-1987,2024-04-28,Donald Reed,Manitoba,Furniture,Office Desk,5,239.04,1195.2,102.73
+ORD-1988,2024-06-16,Timothy Cisneros,Quebec,Furniture,Cabinet,7,700.76,4905.32,1260.94
+ORD-1989,2024-06-05,Alexander Lopez Jr.,British Columbia,Furniture,Conference Table,8,375.34,3002.72,347.2
+ORD-1990,2024-01-25,Heidi Jefferson,British Columbia,Office Supplies,Printer Paper,8,455.7,3645.6,575.27
+ORD-1991,2024-03-23,Daniel Torres,Manitoba,Office Supplies,Desk Chair,8,1148.11,9184.88,2268.94
+ORD-1992,2024-12-07,Joy Cook,British Columbia,Office Supplies,Printer Paper,3,1009.61,3028.83,808.92
+ORD-1993,2024-03-05,Sheri Young,Quebec,Electronics,Monitor,2,63.76,127.52,21.1
+ORD-1994,2024-12-06,Eric Hodges,Ontario,Office Supplies,Desk Chair,3,258.11,774.33,209.79
+ORD-1995,2024-09-30,Noah Garcia,Ontario,Office Supplies,Printer Paper,6,546.39,3278.34,1125.7
+ORD-1996,2024-08-22,Nicholas Smith,Ontario,Electronics,Laptop,7,1118.32,7828.24,2250.62
+ORD-1997,2024-12-27,April Boyd,Ontario,Electronics,Laptop,9,1171.09,10539.81,1785.93
+ORD-1998,2024-08-14,Christine Haley PhD,Ontario,Office Supplies,Desk Chair,10,805.26,8052.6,2382.65
+ORD-1999,2024-10-09,Cassandra Vaughn,Alberta,Furniture,Office Desk,8,1081.71,8653.68,1018.06
+ORD-2000,2024-07-01,Kathryn Perkins,Alberta,Office Supplies,Notebook,7,746.76,5227.32,729.2
